@@ -572,3 +572,18 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.19-11.48.00:350][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
 [2020.03.19-11.48.00:418][397]LogPlayLevel: Display: Destroying online subsystem :Context_2
 [2020.03.19-11.48.01:869][571]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.19-11.48.39:026][ 22]LogAssetEditorManager: Opening Asset editor for World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2020.03.19-11.48.39:042][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.03.19-11.48.39:043][ 22]Cmd: MAP LOAD FILE="../../../../../Documents/Github/Roguelike/RogueLike/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.19-11.48.39:043][ 22]LightingResults: New page: Lighting Build
+[2020.03.19-11.48.39:044][ 22]LoadErrors: New page: Loading map: TopDownExampleMap.umap
+[2020.03.19-11.48.39:044][ 22]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.19-11.48.39:044][ 22]MapCheck: New page: Map Check
+[2020.03.19-11.48.39:044][ 22]LightingResults: New page: Lighting Build
+[2020.03.19-11.48.39:064][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.03.19-11.48.39:078][ 22]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.03.19-11.48.39:093][ 22]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.19-11.48.39:113][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.03.19-11.48.39:136][ 22]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.19-11.48.39:136][ 22]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.071ms to complete.
+[2020.03.19-11.48.39:137][ 22]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.095
