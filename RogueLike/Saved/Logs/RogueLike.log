@@ -1064,3 +1064,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.19-11.25.46:110][826]LogSlate: Window 'Save Content' being destroyed
 [2020.03.19-11.25.46:130][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/test" FILE="../../../../../Documents/Github/Roguelike/RogueLike/Content/TopDownBP/test.uasset" SILENT=true
 [2020.03.19-11.25.46:149][826]LogSavePackage: Moving '../../../../../Documents/Github/Roguelike/RogueLike/Saved/test5E7364D142561A1536AE60B0A4A54EAE.tmp' to '../../../../../Documents/Github/Roguelike/RogueLike/Content/TopDownBP/test.uasset'
+[2020.03.19-11.31.52:297][112]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.03.19-11.31.53:836][286]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.03.19-11.31.55:765][286]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.19-11.31.56:465][286]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/TopDownBP/test.test
+[2020.03.19-11.31.56:980][286]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.03.19-11.31.57:137][286]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.03.19-11.31.57:160][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.03.19-11.31.57:180][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
