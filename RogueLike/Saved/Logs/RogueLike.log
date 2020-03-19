@@ -1073,3 +1073,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.19-11.31.57:137][286]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
 [2020.03.19-11.31.57:160][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
 [2020.03.19-11.31.57:180][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.03.19-11.33.33:344][301]LogBlueprint: Error: [Compiler test] The type of  Object  is undetermined.  Connect something to  Cast To RaycastComponent  to imply a specific type.
+[2020.03.19-11.33.33:344][301]LogBlueprint: Error: [Compiler test] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2020.03.19-11.33.33:369][301]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.03.19-11.33.34:274][301]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.19-11.33.34:329][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.03.19-11.33.34:353][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.03.19-11.33.34:375][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
