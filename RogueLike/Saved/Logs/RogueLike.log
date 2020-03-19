@@ -616,3 +616,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.19-11.05.30:424][449]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
 [2020.03.19-11.05.30:583][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/test" FILE="../../../../../Documents/Github/Roguelike/RogueLike/Content/TopDownBP/test.uasset" SILENT=true
 [2020.03.19-11.05.30:597][463]LogSavePackage: Moving '../../../../../Documents/Github/Roguelike/RogueLike/Saved/test85F151A24FB2F92B838A289B6957AF0F.tmp' to '../../../../../Documents/Github/Roguelike/RogueLike/Content/TopDownBP/test.uasset'
+[2020.03.19-11.08.03:472][482]LogSlate: Took 0.006440 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.19-11.10.11:250][ 53]BlueprintLog: New page: Compile test
+[2020.03.19-11.10.11:423][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.03.19-11.10.19:872][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.03.19-11.10.21:693][ 63]LogSlate: Window 'Save Content' being destroyed
+[2020.03.19-11.10.21:714][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/test" FILE="../../../../../Documents/Github/Roguelike/RogueLike/Content/TopDownBP/test.uasset" SILENT=true
+[2020.03.19-11.10.21:737][ 63]LogSavePackage: Moving '../../../../../Documents/Github/Roguelike/RogueLike/Saved/test8FA4E6C6418961405DEDE5B1D890F572.tmp' to '../../../../../Documents/Github/Roguelike/RogueLike/Content/TopDownBP/test.uasset'
+[2020.03.19-11.12.30:375][728]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={100B9032-44CA-1A6F-DABD-D88495DB1FD4}
