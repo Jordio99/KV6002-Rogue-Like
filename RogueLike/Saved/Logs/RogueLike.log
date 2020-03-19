@@ -624,3 +624,443 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.19-11.10.21:714][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/test" FILE="../../../../../Documents/Github/Roguelike/RogueLike/Content/TopDownBP/test.uasset" SILENT=true
 [2020.03.19-11.10.21:737][ 63]LogSavePackage: Moving '../../../../../Documents/Github/Roguelike/RogueLike/Saved/test8FA4E6C6418961405DEDE5B1D890F572.tmp' to '../../../../../Documents/Github/Roguelike/RogueLike/Content/TopDownBP/test.uasset'
 [2020.03.19-11.12.30:375][728]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={100B9032-44CA-1A6F-DABD-D88495DB1FD4}
+[2020.03.19-11.18.10:641][ 95]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.19-11.18.10:657][ 95]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.19-11.18.10:657][ 95]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.19-11.18.10:657][ 95]PIE: New page: PIE session: TopDownExampleMap (19 Mar 2020 11:18:10)
+[2020.03.19-11.18.10:657][ 95]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.03.19-11.18.10:667][ 95]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009561s)
+[2020.03.19-11.18.10:668][ 95]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.03.19-11.18.10:668][ 95]LogPlayLevel: PIE: World Init took: (0.001105s)
+[2020.03.19-11.18.10:668][ 95]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.010839s)
+[2020.03.19-11.18.10:696][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.03.19-11.18.10:726][ 95]LogInit: XAudio2 using 'Headset Earphone (Astro A50 Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.19-11.18.10:735][ 95]LogInit: FAudioDevice initialized.
+[2020.03.19-11.18.10:745][ 95]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.03.19-11.18.10:747][ 95]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.03.19-11.18.10
+[2020.03.19-11.18.10:747][ 95]LogWorld: Bringing up level for play took: 0.001626
+[2020.03.19-11.18.10:747][ 95]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2020.03.19-11.18.10:749][ 95]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.333
+[2020.03.19-11.18.10:750][ 95]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.19-11.18.11:998][242]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2020.03.19-11.18.13:111][376]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.19-11.18.13:253][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.19-11.18.29:371][327]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2020.03.19-11.18.32:971][759]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.19-11.18.33:039][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.19-11.18.33:040][767]LogNet: Browse: /Game/TopDownBP/Maps/TopDownExampleMap
+[2020.03.19-11.18.33:040][767]LogLoad: LoadMap: /Game/TopDownBP/Maps/TopDownExampleMap
+[2020.03.19-11.18.33:040][767]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.03.19-11.18.33:040][767]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.19-11.18.33:069][767]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.03.19-11.18.33:070][767]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.03.19-11.18.33:083][767]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012791s)
+[2020.03.19-11.18.33:083][767]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.03.19-11.18.33:084][767]LogPlayLevel: PIE: World Init took: (0.001077s)
+[2020.03.19-11.18.33:084][767]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.014011s)
+[2020.03.19-11.18.33:084][767]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.03.19-11.18.33:094][767]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.03.19-11.18.33
+[2020.03.19-11.18.33:094][767]LogWorld: Bringing up level for play took: 0.009895
+[2020.03.19-11.18.33:096][767]LogLoad: Took 0.055504 seconds to LoadMap(/Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap)
+[2020.03.19-11.18.41:121][729]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2020.03.19-11.18.47:212][460]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.19-11.18.47:345][476]LogNet: Browse: /Game/TopDownBP/Maps/Main_Menu
+[2020.03.19-11.18.47:345][476]LogLoad: LoadMap: /Game/TopDownBP/Maps/Main_Menu
+[2020.03.19-11.18.47:345][476]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.03.19-11.18.47:346][476]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.19-11.18.47:374][476]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.03.19-11.18.47:383][476]LogAIModule: Creating AISystem for world Main_Menu
+[2020.03.19-11.18.47:383][476]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.03.19-11.18.47:384][476]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2020.03.19-11.18.47
+[2020.03.19-11.18.47:384][476]LogWorld: Bringing up level for play took: 0.000323
+[2020.03.19-11.18.47:384][476]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.03.19-11.18.47:388][476]LogLoad: Took 0.042298 seconds to LoadMap(/Game/TopDownBP/Maps/Main_Menu)
+[2020.03.19-11.18.49:989][788]LogNet: Browse: /Game/TopDownBP/Maps/TopDownExampleMap
+[2020.03.19-11.18.49:989][788]LogLoad: LoadMap: /Game/TopDownBP/Maps/TopDownExampleMap
+[2020.03.19-11.18.49:989][788]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_Main_Menu
+[2020.03.19-11.18.49:989][788]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2020.03.19-11.18.50:017][788]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.03.19-11.18.50:017][788]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.03.19-11.18.50:027][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009551s)
+[2020.03.19-11.18.50:028][788]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.03.19-11.18.50:028][788]LogPlayLevel: PIE: World Init took: (0.000937s)
+[2020.03.19-11.18.50:028][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.011447s)
+[2020.03.19-11.18.50:028][788]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.03.19-11.18.50:036][788]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.03.19-11.18.50
+[2020.03.19-11.18.50:036][788]LogWorld: Bringing up level for play took: 0.007370
+[2020.03.19-11.18.50:037][788]LogLoad: Took 0.047965 seconds to LoadMap(/Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap)
+[2020.03.19-11.18.53:649][221]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:649][221]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:649][221]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'inventory' of length 0 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.53:649][221]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:649][221]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:649][221]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'inventory' of length 0 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.53:649][221]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:649][221]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:649][221]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'inventory' of length 0 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.53:649][221]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:649][221]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:649][221]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'inventory' of length 0 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.53:650][221]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:650][221]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:650][221]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'inventory' of length 0 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.53:650][221]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:650][221]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:650][221]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'inventory' of length 0 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.53:650][221]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:650][221]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:650][221]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'inventory' of length 0 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.53:650][221]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:650][221]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:650][221]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'inventory' of length 0 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.53:650][221]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:650][221]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:650][221]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'inventory' of length 0 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.53:650][221]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:650][221]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:650][221]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'inventory' of length 0 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.53:651][221]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:651][221]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:651][221]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'inventory' of length 0 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.53:651][221]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:651][221]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:651][221]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'inventory' of length 0 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.53:651][221]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:651][221]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:651][221]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'inventory' of length 0 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.53:651][221]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:651][221]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:651][221]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'inventory' of length 0 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.53:651][221]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:651][221]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:651][221]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'inventory' of length 0 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.53:652][221]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:652][221]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:652][221]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'inventory' of length 0 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.53:652][221]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:652][221]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:652][221]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'inventory' of length 0 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.53:652][221]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:652][221]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:652][221]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'inventory' of length 0 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.53:652][221]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:652][221]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:652][221]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'inventory' of length 0 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.53:652][221]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:652][221]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:652][221]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'inventory' of length 0 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.53:652][221]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:652][221]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:652][221]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'inventory' of length 0 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.53:653][221]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:653][221]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:653][221]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'inventory' of length 0 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.53:653][221]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:653][221]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:653][221]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'inventory' of length 0 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.53:653][221]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:653][221]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:653][221]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'inventory' of length 0 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.53:653][221]LogScript: Warning: Script Msg: Attempted to access index 24 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:653][221]LogScript: Warning: Script Msg: Attempted to access index 24 from array 'Array' of length 0 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.53:653][221]LogScript: Warning: Script Msg: Attempted to access index 24 from array 'inventory' of length 0 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.54:726][350]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:726][350]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:726][350]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.54:726][350]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:726][350]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:726][350]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.54:726][350]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:726][350]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:726][350]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.54:726][350]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:726][350]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:726][350]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.54:727][350]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:727][350]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:727][350]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.54:727][350]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:727][350]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:727][350]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.54:727][350]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:727][350]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:727][350]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.54:727][350]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:727][350]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:727][350]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.54:727][350]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:727][350]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:727][350]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.54:727][350]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:727][350]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:727][350]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.54:728][350]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:728][350]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:728][350]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.54:728][350]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:728][350]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:728][350]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.54:728][350]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:728][350]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:728][350]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.54:728][350]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:728][350]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:728][350]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.54:728][350]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:728][350]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:728][350]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.54:729][350]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:729][350]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:729][350]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.54:729][350]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:729][350]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:729][350]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.54:729][350]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:729][350]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:729][350]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.54:729][350]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:729][350]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:729][350]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.54:729][350]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:729][350]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:729][350]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.54:729][350]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:729][350]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:729][350]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.54:730][350]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:730][350]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:730][350]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.54:730][350]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:730][350]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:730][350]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.54:730][350]LogScript: Warning: Script Msg: Attempted to access index 24 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:730][350]LogScript: Warning: Script Msg: Attempted to access index 24 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.54:730][350]LogScript: Warning: Script Msg: Attempted to access index 24 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.55:360][426]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:360][426]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:360][426]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.55:361][426]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:361][426]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:361][426]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.55:361][426]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:361][426]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:361][426]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.55:361][426]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:361][426]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:361][426]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.55:361][426]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:361][426]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:361][426]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.55:361][426]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:361][426]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:361][426]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.55:362][426]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:362][426]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:362][426]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.55:362][426]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:362][426]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:362][426]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.55:362][426]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:362][426]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:362][426]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.55:362][426]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:362][426]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:362][426]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.55:362][426]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:362][426]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:362][426]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.55:363][426]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:363][426]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:363][426]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.55:363][426]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:363][426]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:363][426]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.55:363][426]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:363][426]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:363][426]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.55:363][426]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:363][426]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:363][426]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.55:363][426]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:363][426]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:363][426]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.55:364][426]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:364][426]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:364][426]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.55:364][426]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:364][426]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:364][426]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.55:364][426]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:364][426]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:364][426]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.55:364][426]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:364][426]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:364][426]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.55:364][426]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:364][426]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:364][426]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.55:365][426]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:365][426]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:365][426]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.55:365][426]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:365][426]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:365][426]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.55:365][426]LogScript: Warning: Script Msg: Attempted to access index 24 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:365][426]LogScript: Warning: Script Msg: Attempted to access index 24 from array 'Array' of length 1 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.55:365][426]LogScript: Warning: Script Msg: Attempted to access index 24 from array 'inventory' of length 1 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:063][630]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:063][630]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:063][630]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:063][630]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:063][630]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:063][630]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:063][630]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:063][630]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:063][630]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:063][630]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:063][630]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:063][630]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:064][630]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:064][630]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:064][630]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:064][630]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:064][630]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:064][630]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:064][630]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:064][630]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:064][630]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:064][630]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:064][630]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:064][630]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:064][630]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:064][630]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:064][630]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:064][630]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:065][630]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:065][630]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:065][630]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:065][630]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:065][630]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:065][630]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:065][630]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:065][630]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:065][630]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:065][630]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:065][630]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:065][630]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:065][630]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:065][630]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:065][630]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:065][630]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:065][630]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:065][630]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:065][630]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:065][630]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:065][630]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:065][630]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:065][630]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:065][630]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:065][630]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:065][630]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:065][630]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:065][630]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:065][630]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:065][630]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:065][630]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:065][630]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:065][630]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:066][630]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:066][630]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:066][630]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:066][630]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:066][630]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:066][630]LogScript: Warning: Script Msg: Attempted to access index 24 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:066][630]LogScript: Warning: Script Msg: Attempted to access index 24 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:066][630]LogScript: Warning: Script Msg: Attempted to access index 24 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:889][729]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:889][729]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:889][729]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:889][729]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:889][729]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:889][729]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:889][729]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:889][729]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:889][729]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:889][729]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:889][729]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:889][729]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:889][729]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:890][729]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:890][729]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:890][729]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:890][729]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:890][729]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:890][729]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:890][729]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:890][729]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:890][729]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:890][729]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:890][729]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:890][729]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:890][729]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:890][729]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:890][729]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:890][729]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:890][729]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:891][729]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:891][729]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:891][729]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:891][729]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:891][729]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:891][729]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:891][729]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:891][729]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:891][729]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:891][729]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:891][729]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:891][729]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:891][729]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:891][729]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:891][729]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:892][729]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:892][729]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:892][729]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:892][729]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:892][729]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:892][729]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:892][729]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:892][729]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:892][729]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:892][729]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:892][729]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:892][729]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:892][729]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:892][729]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:892][729]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:893][729]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:893][729]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:893][729]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:893][729]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:893][729]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:893][729]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.18.57:893][729]LogScript: Warning: Script Msg: Attempted to access index 24 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:893][729]LogScript: Warning: Script Msg: Attempted to access index 24 from array 'Array' of length 2 in '/Game/TopDownBP/UI/UI_Inventory.UI_Inventory_C:setWidgetStyle'!
+[2020.03.19-11.18.57:893][729]LogScript: Warning: Script Msg: Attempted to access index 24 from array 'inventory' of length 2 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C'!
+[2020.03.19-11.19.01:015][104]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.19-11.19.01:015][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.19-11.19.01:015][104]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.03.19-11.19.01:015][104]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.19-11.19.01:021][104]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.19-11.19.01:021][104]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.03.19-11.19.01:053][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.19-11.19.01:056][104]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.03.19-11.19.01:119][110]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.03.19-11.19.28:944][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.19-11.20.10:637][ 90]LogRenderer: Reallocating scene render targets to support 1212x740 Format 10 NumSamples 1 (Frame:34963).
+[2020.03.19-11.20.10:742][ 99]LogRenderer: Reallocating scene render targets to support 1216x740 Format 10 NumSamples 1 (Frame:34976).
+[2020.03.19-11.25.18:418][448]BlueprintLog: New page: Compile test
+[2020.03.19-11.25.18:594][448]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.03.19-11.25.44:946][826]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.03.19-11.25.46:110][826]LogSlate: Window 'Save Content' being destroyed
+[2020.03.19-11.25.46:130][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/test" FILE="../../../../../Documents/Github/Roguelike/RogueLike/Content/TopDownBP/test.uasset" SILENT=true
+[2020.03.19-11.25.46:149][826]LogSavePackage: Moving '../../../../../Documents/Github/Roguelike/RogueLike/Saved/test5E7364D142561A1536AE60B0A4A54EAE.tmp' to '../../../../../Documents/Github/Roguelike/RogueLike/Content/TopDownBP/test.uasset'
