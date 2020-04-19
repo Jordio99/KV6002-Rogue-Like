@@ -1,0 +1,1847 @@
+﻿Log file open, 04/19/20 18:24:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: RogueLike
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.070052
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.19-17.24.18:758][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.19-17.24.18:758][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.19-17.24.18:758][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Jordan/Documents/GitHub/KV6002-Rogue-Like/RogueLike/Saved/Config/Windows/Engine.ini]
+[2020.04.19-17.24.18:758][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.19-17.24.18:758][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Jordan/Documents/GitHub/KV6002-Rogue-Like/RogueLike/Saved/Config/Windows/Engine.ini]
+[2020.04.19-17.24.18:758][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Jordan/Documents/GitHub/KV6002-Rogue-Like/RogueLike/Saved/Config/Windows/Engine.ini]
+[2020.04.19-17.24.18:758][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.19-17.24.18:758][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.19-17.24.18:758][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.19-17.24.18:758][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.19-17.24.18:758][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.19-17.24.18:758][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.19-17.24.18:758][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.19-17.24.18:758][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.19-17.24.18:758][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.19-17.24.18:758][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.19-17.24.18:758][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.19-17.24.18:758][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.19-17.24.18:758][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.19-17.24.18:758][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Jordan/Documents/GitHub/KV6002-Rogue-Like/RogueLike/Saved/Config/Windows/Engine.ini]
+[2020.04.19-17.24.18:758][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.19-17.24.18:758][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.19-17.24.18:758][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.19-17.24.18:758][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.19-17.24.18:758][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.19-17.24.18:758][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.19-17.24.18:758][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.04.19-17.24.18:758][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.19-17.24.18:758][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.19-17.24.18:758][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.19-17.24.18:758][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.19-17.24.18:758][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.19-17.24.18:758][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.19-17.24.18:758][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Jordan/Documents/GitHub/KV6002-Rogue-Like/RogueLike/Saved/Config/Windows/Engine.ini]
+[2020.04.19-17.24.18:758][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Jordan/Documents/GitHub/KV6002-Rogue-Like/RogueLike/Saved/Config/Windows/Engine.ini]
+[2020.04.19-17.24.18:789][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Jordan/Documents/GitHub/KV6002-Rogue-Like/RogueLike/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Jordan/Documents/GitHub/KV6002-Rogue-Like/RogueLike/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Jordan/Documents/GitHub/KV6002-Rogue-Like/RogueLike/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Jordan/Documents/GitHub/KV6002-Rogue-Like/RogueLike/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.19-17.24.18:789][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.19-17.24.18:790][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.19-17.24.18:790][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Jordan/Documents/GitHub/KV6002-Rogue-Like/RogueLike/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-17.24.18:790][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.19-17.24.18:790][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.19-17.24.18:790][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.19-17.24.18:790][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.19-17.24.18:790][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.19-17.24.18:790][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.19-17.24.18:790][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.19-17.24.18:790][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.19-17.24.18:790][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Jordan/Documents/GitHub/KV6002-Rogue-Like/RogueLike/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-17.24.18:790][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.19-17.24.18:790][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.19-17.24.18:790][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.19-17.24.18:790][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.19-17.24.18:790][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.19-17.24.18:790][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.19-17.24.18:790][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.19-17.24.18:790][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.19-17.24.18:790][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.19-17.24.18:790][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.19-17.24.18:790][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.19-17.24.18:790][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.19-17.24.18:790][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.19-17.24.18:790][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Jordan/Documents/GitHub/KV6002-Rogue-Like/RogueLike/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-17.24.18:790][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.19-17.24.18:790][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.19-17.24.18:790][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.19-17.24.18:790][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.19-17.24.18:793][  0]LogHAL: Display: Platform has ~ 16 GB [17126060032 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.19-17.24.18:793][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.19-17.24.18:793][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Jordan/Documents/GitHub/KV6002-Rogue-Like/RogueLike/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-17.24.18:793][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.19-17.24.18:793][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.19-17.24.18:793][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Jordan/Documents/GitHub/KV6002-Rogue-Like/RogueLike/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Jordan/Documents/GitHub/KV6002-Rogue-Like/RogueLike/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Jordan/Documents/GitHub/KV6002-Rogue-Like/RogueLike/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Jordan/Documents/GitHub/KV6002-Rogue-Like/RogueLike/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Jordan/Documents/GitHub/KV6002-Rogue-Like/RogueLike/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Jordan/Documents/GitHub/KV6002-Rogue-Like/RogueLike/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.19-17.24.18:794][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.19-17.24.18:795][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.19-17.24.18:795][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.19-17.24.18:795][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.19-17.24.18:795][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Jordan/Documents/GitHub/KV6002-Rogue-Like/RogueLike/Saved/Config/Windows/Engine.ini]
+[2020.04.19-17.24.18:795][  0]LogInit: Computer: JTPC
+[2020.04.19-17.24.18:795][  0]LogInit: User: Jordan
+[2020.04.19-17.24.18:795][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.04.19-17.24.18:795][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.19-17.24.18:795][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.04.19-17.24.18:795][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.19-17.24.18:795][  0]LogMemory: Process Physical Memory: 102.09 MB used, 102.09 MB peak
+[2020.04.19-17.24.18:795][  0]LogMemory: Process Virtual Memory: 105.61 MB used, 105.61 MB peak
+[2020.04.19-17.24.18:795][  0]LogMemory: Physical Memory: 7669.54 MB used,  8663.14 MB free, 16332.68 MB total
+[2020.04.19-17.24.18:795][  0]LogMemory: Virtual Memory: 4672.46 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2020.04.19-17.24.18:813][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.19-17.24.18:847][  0]LogInit: Using OS detected language (en-GB).
+[2020.04.19-17.24.18:847][  0]LogInit: Using OS detected locale (en-GB).
+[2020.04.19-17.24.18:848][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.04.19-17.24.19:025][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.19-17.24.19:100][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.19-17.24.19:100][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.19-17.24.19:284][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.19-17.24.19:284][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.19-17.24.19:364][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2020.04.19-17.24.19:364][  0]LogD3D11RHI:       4043/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.04.19-17.24.19:366][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.19-17.24.19:366][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.19-17.24.19:366][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.19-17.24.19:375][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.19-17.24.19:375][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.19-17.24.19:375][  0]LogWindows: EnumDisplayDevices:
+[2020.04.19-17.24.19:376][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2020.04.19-17.24.19:376][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2020.04.19-17.24.19:377][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2020.04.19-17.24.19:378][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2020.04.19-17.24.19:378][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.04.19-17.24.19:378][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2020.04.19-17.24.19:378][  0]LogD3D11RHI:   Driver Version: 442.74 (internal:26.21.14.4274, unified:442.74)
+[2020.04.19-17.24.19:378][  0]LogD3D11RHI:      Driver Date: 3-13-2020
+[2020.04.19-17.24.19:378][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2020.04.19-17.24.19:426][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.19-17.24.19:444][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.04.19-17.24.20:802][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.04.19-17.24.20:811][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.04.19-17.24.20:821][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.04.19-17.24.20:830][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.04.19-17.24.20:840][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.04.19-17.24.20:850][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.04.19-17.24.20:859][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.19-17.24.20:869][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.04.19-17.24.20:873][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.04.19-17.24.20:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.04.19-17.24.20:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.04.19-17.24.20:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.04.19-17.24.20:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.04.19-17.24.20:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.04.19-17.24.20:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.04.19-17.24.20:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.04.19-17.24.20:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.04.19-17.24.20:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.04.19-17.24.20:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.19-17.24.20:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.04.19-17.24.20:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.04.19-17.24.20:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.19-17.24.20:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.19-17.24.20:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.19-17.24.20:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.19-17.24.20:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.04.19-17.24.20:907][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.04.19-17.24.20:910][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.04.19-17.24.20:927][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.04.19-17.24.20:927][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.04.19-17.24.20:942][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.04.19-17.24.20:942][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.04.19-17.24.20:950][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.04.19-17.24.20:957][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.19-17.24.20:965][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.04.19-17.24.20:973][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.04.19-17.24.21:001][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.04.19-17.24.21:001][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.04.19-17.24.21:001][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.19-17.24.21:010][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.19-17.24.21:070][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/Jordan/Documents/GitHub/KV6002-Rogue-Like/RogueLike/Intermediate/Shaders/WorkingDirectory/13052/).
+[2020.04.19-17.24.21:070][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jordan/AppData/Local/Temp/UnrealShaderWorkingDir/31D8D6C44C197471DFF04F84B9C8FCFB/'.
+[2020.04.19-17.24.21:073][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.19-17.24.21:073][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.19-17.24.21:073][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.19-17.24.21:667][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.19-17.24.21:730][  0]LogDerivedDataCache: Loaded boot cache 0.06s 73MB C:/Users/Jordan/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.04.19-17.24.21:731][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jordan/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.04.19-17.24.21:731][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Jordan/Documents/GitHub/KV6002-Rogue-Like/RogueLike/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.19-17.24.21:731][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.19-17.24.21:731][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Jordan/Documents/GitHub/KV6002-Rogue-Like/RogueLike/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.19-17.24.21:731][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.19-17.24.21:740][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.19-17.24.21:741][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.19-17.24.21:741][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.19-17.24.21:742][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jordan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.19-17.24.21:742][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.19-17.24.21:742][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.19-17.24.21:765][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.19-17.24.21:768][  0]LogSlate: Using FreeType 2.6.0
+[2020.04.19-17.24.21:768][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.19-17.24.21:825][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2020.04.19-17.24.22:088][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.19-17.24.22:230][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.19-17.24.22:230][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.19-17.24.22:230][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.19-17.24.22:230][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.19-17.24.22:230][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.19-17.24.22:238][  0]LogNetVersion: RogueLike 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2801938545)
+[2020.04.19-17.24.22:805][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.099775 seconds
+[2020.04.19-17.24.22:813][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.04.19-17.24.22:813][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.04.19-17.24.22:813][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.19-17.24.23:752][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.19-17.24.23:754][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.19-17.24.23:856][  0]SourceControl: Source control is disabled
+[2020.04.19-17.24.23:857][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.19-17.24.23:857][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.04.19-17.24.23:859][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.19-17.24.23:859][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.04.19-17.24.23:861][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.19-17.24.23:861][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.04.19-17.24.23:982][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.19-17.24.24:177][  0]LogOcInput: OculusInput pre-init called
+[2020.04.19-17.24.24:188][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.04.19-17.24.24:188][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.04.19-17.24.24:263][  0]LogEngine: Initializing Engine...
+[2020.04.19-17.24.24:265][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.19-17.24.24:266][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.19-17.24.24:511][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.19-17.24.24:525][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.19-17.24.24:563][  0]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.19-17.24.24:606][  0]LogInit: FAudioDevice initialized.
+[2020.04.19-17.24.24:606][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.19-17.24.25:350][  0]LogDerivedDataCache: Saved boot cache 0.74s 73MB C:/Users/Jordan/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.04.19-17.24.25:350][  0]LogInit: Texture streaming: Enabled
+[2020.04.19-17.24.25:395][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.19-17.24.25:396][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.19-17.24.25:422][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.19-17.24.26:858][  0]LogInit: Transaction tracking system initialized
+[2020.04.19-17.24.27:107][  0]BlueprintLog: New page: Editor Load
+[2020.04.19-17.24.27:193][  0]LocalizationService: Localization service is disabled
+[2020.04.19-17.24.27:448][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.19-17.24.27:448][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.19-17.24.27:652][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jordan/Documents/GitHub/KV6002-Rogue-Like/RogueLike/Content/' took 0.04s
+[2020.04.19-17.24.27:652][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.19-17.24.27:652][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.04.19-17.24.27:652][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Jordan/Documents/GitHub/KV6002-Rogue-Like/RogueLike/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.19-17.24.27:652][  0]LightingResults: New page: Lighting Build
+[2020.04.19-17.24.27:655][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.19-17.24.27:655][  0]MapCheck: New page: Map Check
+[2020.04.19-17.24.27:655][  0]LightingResults: New page: Lighting Build
+[2020.04.19-17.24.27:680][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.04.19-17.24.29:767][  0]LogBlueprint: Warning: [Compiler GideonPlayerCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2020.04.19-17.24.29:767][  0]LogBlueprint: Warning: [Compiler GideonPlayerCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2020.04.19-17.24.29:767][  0]LogBlueprint: Warning: [Compiler GideonPlayerCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2020.04.19-17.24.29:768][  0]LogBlueprint: Warning: [Compiler GideonPlayerCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2020.04.19-17.24.43:294][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.04.19-17.24.43:305][  0]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonGideon/Characters/Heroes/Gideon/Gideon_AnimBlueprint.Gideon_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonGideon/Characters/Heroes/Gideon/Gideon_AnimBlueprint.Gideon_AnimBlueprint_C:ExecuteUbergraph_Gideon_AnimBlueprint
+
+[2020.04.19-17.24.43:317][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.19-17.24.43:356][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2020.04.19-17.24.43:356][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.19-17.24.43:356][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.261ms to complete.
+[2020.04.19-17.24.43:357][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 15.705
+[2020.04.19-17.24.43:780][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-17.24.43:788][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-17.24.43:796][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-17.24.43:806][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-17.24.43:814][  0]LogCollectionManager: Loaded 0 collections in 0.002275 seconds
+[2020.04.19-17.24.43:843][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jordan/Documents/GitHub/KV6002-Rogue-Like/RogueLike/Saved/Collections/' took 0.00s
+[2020.04.19-17.24.43:843][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jordan/Documents/GitHub/KV6002-Rogue-Like/RogueLike/Content/Developers/Jordan/Collections/' took 0.00s
+[2020.04.19-17.24.43:843][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jordan/Documents/GitHub/KV6002-Rogue-Like/RogueLike/Content/Collections/' took 0.00s
+[2020.04.19-17.24.43:843][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.04.19-17.24.43:852][  0]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2863 classes and 680 folders.
+[2020.04.19-17.24.43:998][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.19-17.24.47:786][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.04.19-17.24.47:896][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.04.19-17.24.48:028][  0]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.19-17.24.48:030][  0]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.19-17.24.48:059][  0]LogSlate: Took 0.023865 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.19-17.24.48:318][  0]LogRenderer: Reallocating scene render targets to support 512x512 Format 10 NumSamples 1 (Frame:1).
+[2020.04.19-17.24.48:360][  0]LogRenderer: Reallocating scene render targets to support 1144x632 Format 10 NumSamples 1 (Frame:1).
+[2020.04.19-17.24.48:483][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.19-17.24.48:483][  0]LogLoad: (Engine Initialization) Total time: 31.51 seconds
+[2020.04.19-17.24.48:483][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.19-17.24.48:545][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.19-17.24.48:628][  0]LogSlate: Took 0.012374 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.19-17.24.49:430][  8]LogAssetRegistry: Asset discovery search completed in 27.6055 seconds
+[2020.04.19-17.24.49:433][  8]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
+[2020.04.19-17.24.49:433][  8]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000029 seconds (updated 0 objects)
+[2020.04.19-17.24.50:093][ 10]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.19-17.24.53:667][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.19-17.25.00:473][ 48]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2020.04.19-17.25.00:808][ 48]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.04.19-17.25.02:050][ 48]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonGideon/Characters/Heroes/Gideon/Gideon_AnimBlueprint.Gideon_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonGideon/Characters/Heroes/Gideon/Gideon_AnimBlueprint.Gideon_AnimBlueprint_C:ExecuteUbergraph_Gideon_AnimBlueprint
+
+[2020.04.19-17.25.02:149][ 48]LogSlate: Took 0.094213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.19-17.25.02:676][ 49]LogSlate: Took 0.010661 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.19-17.25.06:193][246]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonGideon/Characters/Heroes/Gideon/Gideon_AnimBlueprint.Gideon_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonGideon/Characters/Heroes/Gideon/Gideon_AnimBlueprint.Gideon_AnimBlueprint_C:ExecuteUbergraph_Gideon_AnimBlueprint
+
+[2020.04.19-17.25.06:236][247]LogRenderer: Reallocating scene render targets to support 1220x708 Format 10 NumSamples 1 (Frame:1).
+[2020.04.19-17.25.07:766][354]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.19-17.25.09:274][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.19-17.25.09:355][526]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.19-17.25.09:375][526]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.04.19-17.25.09:375][526]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.19-17.25.09:375][526]PIE: New page: PIE session: TopDownExampleMap (19 Apr 2020 19:25:09)
+[2020.04.19-17.25.09:376][526]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.04.19-17.25.09:377][526]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.04.19-17.25.09:407][526]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030075s)
+[2020.04.19-17.25.09:410][526]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.04.19-17.25.09:410][526]LogPlayLevel: PIE: World Init took: (0.002732s)
+[2020.04.19-17.25.09:411][526]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.033531s)
+[2020.04.19-17.25.09:444][526]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.04.19-17.25.09:470][526]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.19-17.25.09:493][526]LogInit: FAudioDevice initialized.
+[2020.04.19-17.25.09:502][526]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.04.19-17.25.09:507][526]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonGideon/Characters/Heroes/Gideon/Gideon_AnimBlueprint.Gideon_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonGideon/Characters/Heroes/Gideon/Gideon_AnimBlueprint.Gideon_AnimBlueprint_C:ExecuteUbergraph_Gideon_AnimBlueprint
+
+[2020.04.19-17.25.09:508][526]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.04.19-18.25.09
+[2020.04.19-17.25.09:509][526]LogWorld: Bringing up level for play took: 0.006790
+[2020.04.19-17.25.09:510][526]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.04.19-17.25.09:537][526]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.04.19-17.25.09:541][526]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 1.012
+[2020.04.19-17.25.09:541][526]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.04.19-17.25.11:704][726]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGideon/Characters/Heroes/Gideon/Animations/LevelStart_Montage.LevelStart_Montage'
+[2020.04.19-17.25.11:704][726]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGideon/Characters/Heroes/Gideon/Animations/LevelStart_Montage.LevelStart_Montage'
+[2020.04.19-17.25.16:295][276]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.04.19-17.25.16:296][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-17.25.16:296][276]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.04.19-17.25.16:296][276]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.19-17.25.16:328][276]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.19-17.25.16:329][276]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.04.19-17.25.16:363][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-17.25.16:392][276]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2020.04.19-17.25.16:411][277]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.04.19-17.25.17:712][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.19-17.25.20:252][721]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.19-17.25.25:358][721]LogBlueprint: Warning: [Compiler GreystonePlayerCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2020.04.19-17.25.25:359][721]LogBlueprint: Warning: [Compiler GreystonePlayerCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2020.04.19-17.25.25:359][721]LogBlueprint: Warning: [Compiler GreystonePlayerCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2020.04.19-17.25.25:359][721]LogBlueprint: Warning: [Compiler GreystonePlayerCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2020.04.19-17.25.26:389][721]LogAIModule: Creating AISystem for world AnimationTestMap
+[2020.04.19-17.25.26:390][721]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint_C:ExecuteUbergraph_Greystone_AnimBlueprint
+
+[2020.04.19-17.25.29:492][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Novaborn_Flesh_head, compiling. 
+[2020.04.19-17.25.29:654][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 119
+[2020.04.19-17.25.29:654][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 109
+[2020.04.19-17.25.29:654][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 99
+[2020.04.19-17.25.29:654][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 89
+[2020.04.19-17.25.29:654][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Novaborn_Head, compiling. 
+[2020.04.19-17.25.30:266][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Novaborn_Legs, compiling. 
+[2020.04.19-17.25.30:584][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Novaborn_Torso, compiling. 
+[2020.04.19-17.25.30:878][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Novaborn_weapons, compiling. 
+[2020.04.19-17.25.31:214][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Novaborn_Weapons_Energy_Demo, compiling. 
+[2020.04.19-17.25.33:490][721]LogMaterial: Display: Missing cached shader map for material M_HairSheet_Master2, compiling. 
+[2020.04.19-17.25.33:773][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_arms_WhiteTiger, compiling. 
+[2020.04.19-17.25.33:899][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1102
+[2020.04.19-17.25.33:899][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Cloth_WhiteTiger, compiling. 
+[2020.04.19-17.25.34:150][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1211
+[2020.04.19-17.25.34:150][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Helm, compiling. 
+[2020.04.19-17.25.34:545][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_legs_WhiteTiger, compiling. 
+[2020.04.19-17.25.34:717][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1333
+[2020.04.19-17.25.34:717][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_shield_WhiteTiger, compiling. 
+[2020.04.19-17.25.34:862][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Torso_WhiteTiger, compiling. 
+[2020.04.19-17.25.35:957][721]LogMaterial: Display: Missing cached shader map for material M_HDRSky, compiling. 
+[2020.04.19-17.25.36:044][721]LogMaterial: Display: Missing cached shader map for material M_AssetPlatform, compiling. 
+[2020.04.19-17.25.36:089][721]LogAIModule: Creating AISystem for world Greystone
+[2020.04.19-17.25.36:333][721]LogMaterial: Display: Missing cached shader map for material M_SphereChromaWisps, compiling. 
+[2020.04.19-17.25.36:437][721]LogMaterial: Display: Missing cached shader map for material M_Smoke, compiling. 
+[2020.04.19-17.25.36:574][721]LogMaterial: Display: Missing cached shader map for material M_WorldGridMaterial, compiling. 
+[2020.04.19-17.25.36:664][721]LogMaterial: Display: Missing cached shader map for material M_Debris, compiling. 
+[2020.04.19-17.25.36:876][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2035
+[2020.04.19-17.25.36:876][721]LogMaterial: Display: Missing cached shader map for material M_ImposterRock_Masked_MASTER, compiling. 
+[2020.04.19-17.25.37:038][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2025
+[2020.04.19-17.25.37:038][721]LogMaterial: Display: Missing cached shader map for material M_ImposterRock_Translucent_MASTER, compiling. 
+[2020.04.19-17.25.37:152][721]LogMaterial: Display: Missing cached shader map for material M_ImposterRock_Translucent_MASTER, compiling. 
+[2020.04.19-17.25.37:317][721]LogMaterial: Display: Missing cached shader map for material M_01_-_Default, compiling. 
+[2020.04.19-17.25.37:431][721]LogMaterial: Display: Missing cached shader map for material M_Plasma_v5_Flipbook2, compiling. 
+[2020.04.19-17.25.38:003][721]LogMaterial: Display: Missing cached shader map for material M_RockSlab, compiling. 
+[2020.04.19-17.25.38:204][721]LogMaterial: Display: Missing cached shader map for material M_Snow_SubUV_, compiling. 
+[2020.04.19-17.25.38:409][721]LogMaterial: Display: Missing cached shader map for material M_WaterRipple_Mesh_Foam, compiling. 
+[2020.04.19-17.25.38:564][721]LogMaterial: Display: Missing cached shader map for material M_Flare_Procedural_Noise_Tex_Glow, compiling. 
+[2020.04.19-17.25.38:629][721]LogMaterial: Display: Missing cached shader map for material M_Lensflare_TB_SoftGlow, compiling. 
+[2020.04.19-17.25.38:679][721]LogMaterial: Display: Missing cached shader map for material M_UpEmbers_LightShafts, compiling. 
+[2020.04.19-17.25.38:753][721]LogMaterial: Display: Missing cached shader map for material M_CleanseFlare, compiling. 
+[2020.04.19-17.25.38:838][721]LogMaterial: Display: Missing cached shader map for material M_Hud_Dmg_Flash, compiling. 
+[2020.04.19-17.25.38:871][721]LogMaterial: Display: Missing cached shader map for material M_Plasma_Keyhole, compiling. 
+[2020.04.19-17.25.38:988][721]LogMaterial: Display: Missing cached shader map for material M_Shockwave_Fresnel_InverteRefract_Soft, compiling. 
+[2020.04.19-17.25.39:085][721]LogMaterial: Display: Missing cached shader map for material M_Slow_Spline_V02, compiling. 
+[2020.04.19-17.25.39:213][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3437
+[2020.04.19-17.25.39:213][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3427
+[2020.04.19-17.25.39:213][721]LogMaterial: Display: Missing cached shader map for material M_Slow_Spline_V03, compiling. 
+[2020.04.19-17.25.39:275][721]LogMaterial: Display: Missing cached shader map for material M_Torus_Glow, compiling. 
+[2020.04.19-17.25.39:299][721]LogMaterial: Display: Missing cached shader map for material M_Tri_Test, compiling. 
+[2020.04.19-17.25.39:368][721]LogMaterial: Display: Missing cached shader map for material M_ArrowFlare, compiling. 
+[2020.04.19-17.25.39:481][721]LogMaterial: Display: Missing cached shader map for material M_BombFlames, compiling. 
+[2020.04.19-17.25.39:545][721]LogMaterial: Display: Missing cached shader map for material M_Elec_Burst, compiling. 
+[2020.04.19-17.25.39:623][721]LogMaterial: Display: Missing cached shader map for material M_GreystoneImpactRefraction, compiling. 
+[2020.04.19-17.25.39:787][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_LMB_Impact, compiling. 
+[2020.04.19-17.25.39:900][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_ScifiRadius, compiling. 
+[2020.04.19-17.25.39:971][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Smoke_Cheaper, compiling. 
+[2020.04.19-17.25.40:097][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4163
+[2020.04.19-17.25.40:098][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Wispy_Plasma_GPU, compiling. 
+[2020.04.19-17.25.40:185][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Wispy_Pulse_Dense, compiling. 
+[2020.04.19-17.25.40:298][721]LogMaterial: Display: Missing cached shader map for material M_Radial_Blur_Refraction, compiling. 
+[2020.04.19-17.25.40:348][721]LogMaterial: Display: Missing cached shader map for material M_Ult_EyeTrails, compiling. 
+[2020.04.19-17.25.40:415][721]LogMaterial: Display: Missing cached shader map for material M_Wisp_SplineThicken, compiling. 
+[2020.04.19-17.25.40:453][721]LogMaterial: Display: Missing cached shader map for material M_Wisp_SplineThicken_Small, compiling. 
+[2020.04.19-17.25.40:538][721]LogMaterial: Display: Missing cached shader map for material M_CameraEffect_ClearAPath, compiling. 
+[2020.04.19-17.25.40:591][721]LogMaterial: Display: Missing cached shader map for material M_CameraEffect_ClearAPath_Impact, compiling. 
+[2020.04.19-17.25.40:699][721]LogMaterial: Display: Missing cached shader map for material M_CameraEffect_Ultimate, compiling. 
+[2020.04.19-17.25.40:748][721]LogMaterial: Display: Missing cached shader map for material M_Greystoneflare, compiling. 
+[2020.04.19-17.25.40:861][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_ClearAPath_Swipe, compiling. 
+[2020.04.19-17.25.40:894][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_ClearAPath_Swipe_LessMask, compiling. 
+[2020.04.19-17.25.40:978][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_LeapSmashGlow, compiling. 
+[2020.04.19-17.25.41:037][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Primary_Plasma, compiling. 
+[2020.04.19-17.25.41:129][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Primary_SwordEdge, compiling. 
+[2020.04.19-17.25.41:199][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Primary_Trails_02, compiling. 
+[2020.04.19-17.25.41:282][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Primary_Trails_04, compiling. 
+[2020.04.19-17.25.41:344][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Smoke_Burst, compiling. 
+[2020.04.19-17.25.41:396][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Sparks, compiling. 
+[2020.04.19-17.25.41:443][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_SpinningSword_Glow_01, compiling. 
+[2020.04.19-17.25.41:532][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5371
+[2020.04.19-17.25.41:532][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Spiral_Glow_Softer, compiling. 
+[2020.04.19-17.25.41:602][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Spiral_Initial, compiling. 
+[2020.04.19-17.25.41:674][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Spiral_Stretch_Up, compiling. 
+[2020.04.19-17.25.41:728][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Spiral_Trail, compiling. 
+[2020.04.19-17.25.41:809][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Spira_GroundCut, compiling. 
+[2020.04.19-17.25.41:897][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Statue_Chunks, compiling. 
+[2020.04.19-17.25.42:073][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Trail_OnlyWind, compiling. 
+[2020.04.19-17.25.42:102][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5956
+[2020.04.19-17.25.42:103][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Ultimate_GlowSmoke, compiling. 
+[2020.04.19-17.25.42:172][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Ultimate_ImpactLines, compiling. 
+[2020.04.19-17.25.42:208][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Ultimate_PlasmaBeam_Thin, compiling. 
+[2020.04.19-17.25.42:242][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Ultimate_PlasmaBeam_Up, compiling. 
+[2020.04.19-17.25.42:281][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Ultimate_PlasmaBeam_Yelo, compiling. 
+[2020.04.19-17.25.42:315][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Ultimate_SpeedLines, compiling. 
+[2020.04.19-17.25.42:350][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Ultimate_Trail_ShckLines, compiling. 
+[2020.04.19-17.25.42:383][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_WhirlingBase_01, compiling. 
+[2020.04.19-17.25.42:422][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Wisp_SplineThicken_Claw, compiling. 
+[2020.04.19-17.25.42:617][721]LogMaterial: Display: Missing cached shader map for material M_HToKill_DHead_01, compiling. 
+[2020.04.19-17.25.42:699][721]LogMaterial: Display: Missing cached shader map for material M_HToKill_TrailCyl_01, compiling. 
+[2020.04.19-17.25.42:774][721]LogMaterial: Display: Missing cached shader map for material M_LeapAOE_Directional_Shock_01, compiling. 
+[2020.04.19-17.25.42:831][721]LogMaterial: Display: Missing cached shader map for material M_LeapAOE_Projectile_Wind_Rush, compiling. 
+[2020.04.19-17.25.42:897][721]LogMaterial: Display: Missing cached shader map for material M_LeapAOE_Round_Shock_Smoke_01, compiling. 
+[2020.04.19-17.25.42:939][721]LogMaterial: Display: Missing cached shader map for material M_MirroredCylinderRefraction, compiling. 
+[2020.04.19-17.25.42:974][721]LogMaterial: Display: Missing cached shader map for material M_Radius_Indicator, compiling. 
+[2020.04.19-17.25.43:004][721]LogMaterial: Display: Missing cached shader map for material M_SpiralGroundCut_Foil, compiling. 
+[2020.04.19-17.25.43:041][721]LogMaterial: Display: Missing cached shader map for material M_Verdict_Directional_Shockwave01, compiling. 
+[2020.04.19-17.25.43:078][721]LogMaterial: Display: Missing cached shader map for material M_Verdict_dust_burst_01, compiling. 
+[2020.04.19-17.25.43:112][721]LogMaterial: Display: Missing cached shader map for material M_Verdict_Straight_Shockwave_01, compiling. 
+[2020.04.19-17.25.43:163][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Novaborn_CameraEffect_Ultimate, compiling. 
+[2020.04.19-17.25.43:317][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7058
+[2020.04.19-17.25.43:317][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Novaborn_ClearAPath_Swipe_LessMask, compiling. 
+[2020.04.19-17.25.43:349][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Novaborn_Constellations_Lines, compiling. 
+[2020.04.19-17.25.43:379][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Novaborn_Constellations_Stars, compiling. 
+[2020.04.19-17.25.43:423][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Novaborn_DNA_Mat, compiling. 
+[2020.04.19-17.25.43:490][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Novaborn_DragonPiece_Demo, compiling. 
+[2020.04.19-17.25.43:556][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Novaborn_LeapAOE_Shockwave, compiling. 
+[2020.04.19-17.25.43:586][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Novaborn_LeapAOE_Trails, compiling. 
+[2020.04.19-17.25.43:623][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Novaborn_Primary_Trails, compiling. 
+[2020.04.19-17.25.43:659][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Novaborn_Shine, compiling. 
+[2020.04.19-17.25.43:693][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Novaborn_Square_Gradient, compiling. 
+[2020.04.19-17.25.43:743][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Novaborn_Square_Gradient2, compiling. 
+[2020.04.19-17.25.43:789][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Novaborn_ULT_Patten2, compiling. 
+[2020.04.19-17.25.43:835][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Novaborn_ULT_Patten3, compiling. 
+[2020.04.19-17.25.43:887][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Novaborn_ULT_UpEmbers2, compiling. 
+[2020.04.19-17.25.43:937][721]LogMaterial: Display: Missing cached shader map for material M_ThickSmoke_MASTER, compiling. 
+[2020.04.19-17.25.44:017][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7855
+[2020.04.19-17.25.44:017][721]LogMaterial: Display: Missing cached shader map for material M_Turbulent_SmokeSubUV, compiling. 
+[2020.04.19-17.25.44:059][721]LogMaterial: Display: Missing cached shader map for material M_hardSpark_Alpha_GPU_Random, compiling. 
+[2020.04.19-17.25.44:102][721]LogMaterial: Display: Missing cached shader map for material M_Hotdog_Spark_VLerp_COLOUR, compiling. 
+[2020.04.19-17.25.44:149][721]LogMaterial: Display: Missing cached shader map for material M_Hotdog_Spark_VLerp_DOF_Rand_Master, compiling. 
+[2020.04.19-17.25.44:191][721]LogMaterial: Display: Missing cached shader map for material M_Hotdog_Spark_VLerp_MASTER, compiling. 
+[2020.04.19-17.25.44:235][721]LogMaterial: Display: Missing cached shader map for material M_Fog_SphericalDensity, compiling. 
+[2020.04.19-17.25.44:271][721]LogMaterial: Display: Missing cached shader map for material M_Fog_SphericalDensity, compiling. 
+[2020.04.19-17.25.44:314][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Water_Particles, compiling. 
+[2020.04.19-17.25.44:402][721]LogMaterial: Display: Missing cached shader map for material M_Greystone_Water_Particles, compiling. 
+[2020.04.19-17.25.45:961][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8707
+[2020.04.19-17.25.45:961][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8697
+[2020.04.19-17.25.45:961][721]LogObjectTools: Deleting 2 worlds: /Game/ParagonGreystone/Characters/Heroes/Greystone/AnimationTestMap.AnimationTestMap, /Game/ParagonGreystone/Characters/Maps/Greystone.Greystone
+[2020.04.19-17.25.45:961][721]LogObjectTools: Currently 4 active worlds: /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2
+[2020.04.19-17.25.46:027][721]LogUObjectHash: Compacting FUObjectHashTables data took  10.47ms
+[2020.04.19-17.25.49:415][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8687
+[2020.04.19-17.25.49:415][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8677
+[2020.04.19-17.25.51:399][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8667
+[2020.04.19-17.25.53:842][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8657
+[2020.04.19-17.25.54:434][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8647
+[2020.04.19-17.25.55:100][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8637
+[2020.04.19-17.25.55:740][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8627
+[2020.04.19-17.25.56:344][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8617
+[2020.04.19-17.25.59:640][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8607
+[2020.04.19-17.25.59:640][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8597
+[2020.04.19-17.26.00:312][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8587
+[2020.04.19-17.26.00:312][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8577
+[2020.04.19-17.26.03:707][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8567
+[2020.04.19-17.26.04:308][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8557
+[2020.04.19-17.26.08:276][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8547
+[2020.04.19-17.26.10:293][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8537
+[2020.04.19-17.26.10:939][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8527
+[2020.04.19-17.26.10:939][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8517
+[2020.04.19-17.26.12:822][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8507
+[2020.04.19-17.26.14:693][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8497
+[2020.04.19-17.26.16:693][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8487
+[2020.04.19-17.26.18:044][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8477
+[2020.04.19-17.26.19:429][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8467
+[2020.04.19-17.26.20:135][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8457
+[2020.04.19-17.26.23:070][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8447
+[2020.04.19-17.26.23:070][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8437
+[2020.04.19-17.26.25:630][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8427
+[2020.04.19-17.26.26:906][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8417
+[2020.04.19-17.26.28:831][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8407
+[2020.04.19-17.26.30:212][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8397
+[2020.04.19-17.26.30:924][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8387
+[2020.04.19-17.26.32:226][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8377
+[2020.04.19-17.26.34:788][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8367
+[2020.04.19-17.26.37:868][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8357
+[2020.04.19-17.26.37:868][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8347
+[2020.04.19-17.26.40:955][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8337
+[2020.04.19-17.26.41:594][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8327
+[2020.04.19-17.26.41:594][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8317
+[2020.04.19-17.26.44:846][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8307
+[2020.04.19-17.26.46:205][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8297
+[2020.04.19-17.26.46:841][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8287
+[2020.04.19-17.26.48:797][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8277
+[2020.04.19-17.26.49:475][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8267
+[2020.04.19-17.26.51:476][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8257
+[2020.04.19-17.26.53:438][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8247
+[2020.04.19-17.26.54:725][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8237
+[2020.04.19-17.26.55:968][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8227
+[2020.04.19-17.26.57:871][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8217
+[2020.04.19-17.26.58:503][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8207
+[2020.04.19-17.27.00:401][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8197
+[2020.04.19-17.27.01:048][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8187
+[2020.04.19-17.27.02:298][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8177
+[2020.04.19-17.27.02:298][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8167
+[2020.04.19-17.27.04:172][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8157
+[2020.04.19-17.27.04:172][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8147
+[2020.04.19-17.27.04:189][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8137
+[2020.04.19-17.27.06:170][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8127
+[2020.04.19-17.27.06:878][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8117
+[2020.04.19-17.27.07:582][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8107
+[2020.04.19-17.27.08:267][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8097
+[2020.04.19-17.27.09:659][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8087
+[2020.04.19-17.27.11:021][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8077
+[2020.04.19-17.27.13:009][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8067
+[2020.04.19-17.27.14:326][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8057
+[2020.04.19-17.27.15:025][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8047
+[2020.04.19-17.27.15:686][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8037
+[2020.04.19-17.27.16:990][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8027
+[2020.04.19-17.27.17:666][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8017
+[2020.04.19-17.27.19:553][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8007
+[2020.04.19-17.27.20:154][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7997
+[2020.04.19-17.27.20:762][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7987
+[2020.04.19-17.27.22:593][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7977
+[2020.04.19-17.27.22:593][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7967
+[2020.04.19-17.27.23:805][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7957
+[2020.04.19-17.27.24:435][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7947
+[2020.04.19-17.27.25:778][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7937
+[2020.04.19-17.27.26:433][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7927
+[2020.04.19-17.27.27:797][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7917
+[2020.04.19-17.27.28:428][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7907
+[2020.04.19-17.27.29:120][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7897
+[2020.04.19-17.27.31:132][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7887
+[2020.04.19-17.27.31:740][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7877
+[2020.04.19-17.27.32:351][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7867
+[2020.04.19-17.27.33:590][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7857
+[2020.04.19-17.27.33:590][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7847
+[2020.04.19-17.27.34:840][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7837
+[2020.04.19-17.27.35:470][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7827
+[2020.04.19-17.27.37:406][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7817
+[2020.04.19-17.27.38:101][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7807
+[2020.04.19-17.27.38:101][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7797
+[2020.04.19-17.27.39:443][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7787
+[2020.04.19-17.27.41:268][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7777
+[2020.04.19-17.27.43:146][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7767
+[2020.04.19-17.27.43:146][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7757
+[2020.04.19-17.27.45:628][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7747
+[2020.04.19-17.27.45:628][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7737
+[2020.04.19-17.27.46:260][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7727
+[2020.04.19-17.27.47:580][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7717
+[2020.04.19-17.27.48:814][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7707
+[2020.04.19-17.27.50:129][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7697
+[2020.04.19-17.27.50:741][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7687
+[2020.04.19-17.27.51:349][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7677
+[2020.04.19-17.27.52:664][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7667
+[2020.04.19-17.27.53:879][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7657
+[2020.04.19-17.27.55:167][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7647
+[2020.04.19-17.27.55:787][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7637
+[2020.04.19-17.27.58:501][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7627
+[2020.04.19-17.27.58:519][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7617
+[2020.04.19-17.27.59:176][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7607
+[2020.04.19-17.28.01:781][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7597
+[2020.04.19-17.28.02:408][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7587
+[2020.04.19-17.28.03:609][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7577
+[2020.04.19-17.28.04:803][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7567
+[2020.04.19-17.28.04:803][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7557
+[2020.04.19-17.28.05:422][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7547
+[2020.04.19-17.28.07:806][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7537
+[2020.04.19-17.28.09:011][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7527
+[2020.04.19-17.28.09:011][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7517
+[2020.04.19-17.28.10:887][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7507
+[2020.04.19-17.28.10:887][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7497
+[2020.04.19-17.28.12:738][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7487
+[2020.04.19-17.28.12:739][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7477
+[2020.04.19-17.28.13:994][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7467
+[2020.04.19-17.28.14:618][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7457
+[2020.04.19-17.28.16:427][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7447
+[2020.04.19-17.28.17:030][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7437
+[2020.04.19-17.28.17:047][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7427
+[2020.04.19-17.28.18:204][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7417
+[2020.04.19-17.28.19:928][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7407
+[2020.04.19-17.28.21:121][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7397
+[2020.04.19-17.28.21:121][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7387
+[2020.04.19-17.28.24:124][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7377
+[2020.04.19-17.28.24:124][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7367
+[2020.04.19-17.28.24:739][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7357
+[2020.04.19-17.28.25:967][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7347
+[2020.04.19-17.28.27:834][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7337
+[2020.04.19-17.28.28:432][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7327
+[2020.04.19-17.28.29:710][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7317
+[2020.04.19-17.28.30:953][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7307
+[2020.04.19-17.28.31:607][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7297
+[2020.04.19-17.28.34:047][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7287
+[2020.04.19-17.28.34:047][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7277
+[2020.04.19-17.28.35:904][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7267
+[2020.04.19-17.28.37:110][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7257
+[2020.04.19-17.28.37:721][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7247
+[2020.04.19-17.28.38:320][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7237
+[2020.04.19-17.28.41:415][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7227
+[2020.04.19-17.28.42:629][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7217
+[2020.04.19-17.28.42:629][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7207
+[2020.04.19-17.28.43:846][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7197
+[2020.04.19-17.28.44:427][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7187
+[2020.04.19-17.28.46:170][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7177
+[2020.04.19-17.28.47:346][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7167
+[2020.04.19-17.28.47:346][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7157
+[2020.04.19-17.28.49:671][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7147
+[2020.04.19-17.28.50:297][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7137
+[2020.04.19-17.28.50:297][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7127
+[2020.04.19-17.28.52:146][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7117
+[2020.04.19-17.28.53:356][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7107
+[2020.04.19-17.28.54:530][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7097
+[2020.04.19-17.28.54:530][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7087
+[2020.04.19-17.28.55:730][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7077
+[2020.04.19-17.28.56:294][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7067
+[2020.04.19-17.28.56:872][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7057
+[2020.04.19-17.28.57:482][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7047
+[2020.04.19-17.28.58:052][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7037
+[2020.04.19-17.28.59:191][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7027
+[2020.04.19-17.28.59:843][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7017
+[2020.04.19-17.29.00:476][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7007
+[2020.04.19-17.29.01:057][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6997
+[2020.04.19-17.29.04:124][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6987
+[2020.04.19-17.29.04:124][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6977
+[2020.04.19-17.29.05:329][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6967
+[2020.04.19-17.29.05:329][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6957
+[2020.04.19-17.29.07:240][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6947
+[2020.04.19-17.29.09:715][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6937
+[2020.04.19-17.29.09:715][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6927
+[2020.04.19-17.29.10:306][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6917
+[2020.04.19-17.29.12:065][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6907
+[2020.04.19-17.29.12:065][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6897
+[2020.04.19-17.29.12:630][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6887
+[2020.04.19-17.29.14:318][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6877
+[2020.04.19-17.29.14:318][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6867
+[2020.04.19-17.29.16:107][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6857
+[2020.04.19-17.29.16:107][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6847
+[2020.04.19-17.29.16:722][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6837
+[2020.04.19-17.29.18:436][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6827
+[2020.04.19-17.29.19:106][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6817
+[2020.04.19-17.29.21:158][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6807
+[2020.04.19-17.29.21:830][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6797
+[2020.04.19-17.29.25:062][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6787
+[2020.04.19-17.29.25:062][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6777
+[2020.04.19-17.29.25:062][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6767
+[2020.04.19-17.29.25:062][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6757
+[2020.04.19-17.29.28:201][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6747
+[2020.04.19-17.29.28:201][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6737
+[2020.04.19-17.29.30:244][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6727
+[2020.04.19-17.29.30:872][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6717
+[2020.04.19-17.29.31:533][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6707
+[2020.04.19-17.29.33:463][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6697
+[2020.04.19-17.29.34:705][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6687
+[2020.04.19-17.29.34:705][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6677
+[2020.04.19-17.29.35:428][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6667
+[2020.04.19-17.29.38:107][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6657
+[2020.04.19-17.29.38:676][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6647
+[2020.04.19-17.29.38:676][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6637
+[2020.04.19-17.29.39:241][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6627
+[2020.04.19-17.29.41:628][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6617
+[2020.04.19-17.29.41:628][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6607
+[2020.04.19-17.29.43:537][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6597
+[2020.04.19-17.29.44:185][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6587
+[2020.04.19-17.29.46:115][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6577
+[2020.04.19-17.29.47:293][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6567
+[2020.04.19-17.29.47:937][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6557
+[2020.04.19-17.29.49:794][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6547
+[2020.04.19-17.29.50:358][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6537
+[2020.04.19-17.29.52:092][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6527
+[2020.04.19-17.29.52:641][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6517
+[2020.04.19-17.29.53:773][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6507
+[2020.04.19-17.29.54:943][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6497
+[2020.04.19-17.29.55:553][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6487
+[2020.04.19-17.29.58:711][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6477
+[2020.04.19-17.29.58:711][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6467
+[2020.04.19-17.30.01:193][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6457
+[2020.04.19-17.30.01:193][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6447
+[2020.04.19-17.30.02:392][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6437
+[2020.04.19-17.30.04:109][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6427
+[2020.04.19-17.30.04:650][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6417
+[2020.04.19-17.30.06:980][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6407
+[2020.04.19-17.30.06:981][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6397
+[2020.04.19-17.30.06:981][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6387
+[2020.04.19-17.30.10:965][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6377
+[2020.04.19-17.30.10:965][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6367
+[2020.04.19-17.30.11:613][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6357
+[2020.04.19-17.30.13:509][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6347
+[2020.04.19-17.30.13:509][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6337
+[2020.04.19-17.30.14:172][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6327
+[2020.04.19-17.30.14:802][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6317
+[2020.04.19-17.30.16:064][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6307
+[2020.04.19-17.30.16:671][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6297
+[2020.04.19-17.30.16:671][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6287
+[2020.04.19-17.30.17:890][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6277
+[2020.04.19-17.30.18:480][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6267
+[2020.04.19-17.30.19:134][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6257
+[2020.04.19-17.30.19:771][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6247
+[2020.04.19-17.30.20:407][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6237
+[2020.04.19-17.30.21:102][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6227
+[2020.04.19-17.30.21:789][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6217
+[2020.04.19-17.30.21:789][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6207
+[2020.04.19-17.30.24:414][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6197
+[2020.04.19-17.30.24:414][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6187
+[2020.04.19-17.30.24:414][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6177
+[2020.04.19-17.30.24:414][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6167
+[2020.04.19-17.30.27:088][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6157
+[2020.04.19-17.30.27:740][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6147
+[2020.04.19-17.30.29:701][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6137
+[2020.04.19-17.30.30:369][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6127
+[2020.04.19-17.30.31:636][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6117
+[2020.04.19-17.30.32:926][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6107
+[2020.04.19-17.30.33:590][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6097
+[2020.04.19-17.30.33:590][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6087
+[2020.04.19-17.30.37:351][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6077
+[2020.04.19-17.30.37:351][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6067
+[2020.04.19-17.30.37:351][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6057
+[2020.04.19-17.30.37:985][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6047
+[2020.04.19-17.30.40:494][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6037
+[2020.04.19-17.30.40:494][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6027
+[2020.04.19-17.30.42:339][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6017
+[2020.04.19-17.30.42:963][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6007
+[2020.04.19-17.30.45:331][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5997
+[2020.04.19-17.30.45:958][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5987
+[2020.04.19-17.30.45:959][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5977
+[2020.04.19-17.30.45:959][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5967
+[2020.04.19-17.30.47:829][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5957
+[2020.04.19-17.30.50:304][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5947
+[2020.04.19-17.30.50:304][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5937
+[2020.04.19-17.30.52:271][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5927
+[2020.04.19-17.30.52:852][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5917
+[2020.04.19-17.30.54:090][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5907
+[2020.04.19-17.30.54:691][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5897
+[2020.04.19-17.30.55:295][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5887
+[2020.04.19-17.30.55:907][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5877
+[2020.04.19-17.30.58:241][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5867
+[2020.04.19-17.30.58:869][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5857
+[2020.04.19-17.30.59:514][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5847
+[2020.04.19-17.31.00:131][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5837
+[2020.04.19-17.31.00:703][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5827
+[2020.04.19-17.31.01:312][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5817
+[2020.04.19-17.31.02:479][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5807
+[2020.04.19-17.31.03:123][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5797
+[2020.04.19-17.31.03:123][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5787
+[2020.04.19-17.31.04:376][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5777
+[2020.04.19-17.31.05:755][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5767
+[2020.04.19-17.31.05:755][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5757
+[2020.04.19-17.31.07:079][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5747
+[2020.04.19-17.31.07:837][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5737
+[2020.04.19-17.31.09:268][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5727
+[2020.04.19-17.31.09:918][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5717
+[2020.04.19-17.31.11:247][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5707
+[2020.04.19-17.31.11:867][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5697
+[2020.04.19-17.31.11:867][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5687
+[2020.04.19-17.31.13:659][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5677
+[2020.04.19-17.31.13:659][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5667
+[2020.04.19-17.31.14:249][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5657
+[2020.04.19-17.31.15:454][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5647
+[2020.04.19-17.31.15:455][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5637
+[2020.04.19-17.31.17:250][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5627
+[2020.04.19-17.31.17:251][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5617
+[2020.04.19-17.31.17:885][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5607
+[2020.04.19-17.31.19:140][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5597
+[2020.04.19-17.31.19:140][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5587
+[2020.04.19-17.31.19:782][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5577
+[2020.04.19-17.31.21:027][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5567
+[2020.04.19-17.31.21:692][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5557
+[2020.04.19-17.31.22:319][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5547
+[2020.04.19-17.31.22:985][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5537
+[2020.04.19-17.31.24:242][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5527
+[2020.04.19-17.31.24:242][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5517
+[2020.04.19-17.31.24:823][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5507
+[2020.04.19-17.31.26:038][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5497
+[2020.04.19-17.31.26:630][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5487
+[2020.04.19-17.31.27:865][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5477
+[2020.04.19-17.31.28:448][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5467
+[2020.04.19-17.31.28:448][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5457
+[2020.04.19-17.31.29:041][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5447
+[2020.04.19-17.31.30:275][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5437
+[2020.04.19-17.31.30:275][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5427
+[2020.04.19-17.31.31:582][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5417
+[2020.04.19-17.31.32:203][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5407
+[2020.04.19-17.31.32:840][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5397
+[2020.04.19-17.31.33:467][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5387
+[2020.04.19-17.31.34:695][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5377
+[2020.04.19-17.31.35:327][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5367
+[2020.04.19-17.31.36:589][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5357
+[2020.04.19-17.31.36:589][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5347
+[2020.04.19-17.31.37:804][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5337
+[2020.04.19-17.31.39:037][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5327
+[2020.04.19-17.31.39:037][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5317
+[2020.04.19-17.31.40:260][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5307
+[2020.04.19-17.31.40:881][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5297
+[2020.04.19-17.31.41:498][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5287
+[2020.04.19-17.31.42:693][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5277
+[2020.04.19-17.31.43:274][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5267
+[2020.04.19-17.31.43:274][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5257
+[2020.04.19-17.31.44:472][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5247
+[2020.04.19-17.31.45:048][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5237
+[2020.04.19-17.31.45:600][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5227
+[2020.04.19-17.31.46:179][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5217
+[2020.04.19-17.31.46:757][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5207
+[2020.04.19-17.31.47:994][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5197
+[2020.04.19-17.31.47:994][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5187
+[2020.04.19-17.31.48:600][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5177
+[2020.04.19-17.31.49:353][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5167
+[2020.04.19-17.31.49:951][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5157
+[2020.04.19-17.31.51:195][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5147
+[2020.04.19-17.31.51:817][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5137
+[2020.04.19-17.31.51:817][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5127
+[2020.04.19-17.31.52:997][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5117
+[2020.04.19-17.31.52:997][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5107
+[2020.04.19-17.31.53:578][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5097
+[2020.04.19-17.31.54:755][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5087
+[2020.04.19-17.31.54:755][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5077
+[2020.04.19-17.31.55:929][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5067
+[2020.04.19-17.31.57:069][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5057
+[2020.04.19-17.31.57:069][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5047
+[2020.04.19-17.31.57:640][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5037
+[2020.04.19-17.31.58:738][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5027
+[2020.04.19-17.31.59:323][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5017
+[2020.04.19-17.31.59:909][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5007
+[2020.04.19-17.31.59:909][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4997
+[2020.04.19-17.32.01:691][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4987
+[2020.04.19-17.32.01:691][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4977
+[2020.04.19-17.32.02:276][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4967
+[2020.04.19-17.32.02:900][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4957
+[2020.04.19-17.32.03:577][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4947
+[2020.04.19-17.32.04:774][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4937
+[2020.04.19-17.32.04:774][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4927
+[2020.04.19-17.32.06:018][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4917
+[2020.04.19-17.32.07:763][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4907
+[2020.04.19-17.32.08:314][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4897
+[2020.04.19-17.32.08:924][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4887
+[2020.04.19-17.32.09:518][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4877
+[2020.04.19-17.32.11:315][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4867
+[2020.04.19-17.32.12:579][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4857
+[2020.04.19-17.32.12:579][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4847
+[2020.04.19-17.32.13:194][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4837
+[2020.04.19-17.32.15:062][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4827
+[2020.04.19-17.32.15:690][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4817
+[2020.04.19-17.32.15:690][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4807
+[2020.04.19-17.32.16:267][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4797
+[2020.04.19-17.32.18:680][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4787
+[2020.04.19-17.32.19:916][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4777
+[2020.04.19-17.32.19:916][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4767
+[2020.04.19-17.32.21:244][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4757
+[2020.04.19-17.32.21:896][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4747
+[2020.04.19-17.32.22:602][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4737
+[2020.04.19-17.32.23:254][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4727
+[2020.04.19-17.32.25:178][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4717
+[2020.04.19-17.32.25:178][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4707
+[2020.04.19-17.32.26:461][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4697
+[2020.04.19-17.32.27:813][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4687
+[2020.04.19-17.32.28:490][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4677
+[2020.04.19-17.32.30:428][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4667
+[2020.04.19-17.32.33:034][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4657
+[2020.04.19-17.32.33:034][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4647
+[2020.04.19-17.32.34:394][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4637
+[2020.04.19-17.32.34:394][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4627
+[2020.04.19-17.32.38:489][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4617
+[2020.04.19-17.32.41:282][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4607
+[2020.04.19-17.32.41:282][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4597
+[2020.04.19-17.32.41:282][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4587
+[2020.04.19-17.32.44:098][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4577
+[2020.04.19-17.32.46:184][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4567
+[2020.04.19-17.32.46:184][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4557
+[2020.04.19-17.32.46:184][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4547
+[2020.04.19-17.32.48:671][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4537
+[2020.04.19-17.32.49:281][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4527
+[2020.04.19-17.32.51:099][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4517
+[2020.04.19-17.32.51:765][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4507
+[2020.04.19-17.32.52:388][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4497
+[2020.04.19-17.32.53:023][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4487
+[2020.04.19-17.32.54:312][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4477
+[2020.04.19-17.32.55:017][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4467
+[2020.04.19-17.32.55:642][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4457
+[2020.04.19-17.32.56:982][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4447
+[2020.04.19-17.32.57:613][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4437
+[2020.04.19-17.32.58:249][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4427
+[2020.04.19-17.32.58:926][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4417
+[2020.04.19-17.32.59:542][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4407
+[2020.04.19-17.33.00:796][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4397
+[2020.04.19-17.33.02:080][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4387
+[2020.04.19-17.33.02:080][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4377
+[2020.04.19-17.33.03:338][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4367
+[2020.04.19-17.33.03:998][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4357
+[2020.04.19-17.33.04:624][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4347
+[2020.04.19-17.33.04:625][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4337
+[2020.04.19-17.33.06:583][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4327
+[2020.04.19-17.33.07:302][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4317
+[2020.04.19-17.33.07:977][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4307
+[2020.04.19-17.33.09:293][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4297
+[2020.04.19-17.33.10:569][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4287
+[2020.04.19-17.33.11:206][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4277
+[2020.04.19-17.33.11:223][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4267
+[2020.04.19-17.33.12:517][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4257
+[2020.04.19-17.33.14:555][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4247
+[2020.04.19-17.33.14:555][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4237
+[2020.04.19-17.33.15:238][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4227
+[2020.04.19-17.33.15:238][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4217
+[2020.04.19-17.33.17:190][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4207
+[2020.04.19-17.33.17:851][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4197
+[2020.04.19-17.33.18:481][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4187
+[2020.04.19-17.33.18:481][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4177
+[2020.04.19-17.33.20:401][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4167
+[2020.04.19-17.33.21:029][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4157
+[2020.04.19-17.33.21:029][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4147
+[2020.04.19-17.33.22:322][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4137
+[2020.04.19-17.33.23:007][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4127
+[2020.04.19-17.33.24:908][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4117
+[2020.04.19-17.33.24:909][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4107
+[2020.04.19-17.33.24:909][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4097
+[2020.04.19-17.33.26:857][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4087
+[2020.04.19-17.33.26:857][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4077
+[2020.04.19-17.33.27:464][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4067
+[2020.04.19-17.33.28:732][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4057
+[2020.04.19-17.33.28:732][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4047
+[2020.04.19-17.33.30:707][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4037
+[2020.04.19-17.33.31:383][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4027
+[2020.04.19-17.33.31:383][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4017
+[2020.04.19-17.33.32:640][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4007
+[2020.04.19-17.33.33:285][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3997
+[2020.04.19-17.33.33:908][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3987
+[2020.04.19-17.33.35:122][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3977
+[2020.04.19-17.33.36:390][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3967
+[2020.04.19-17.33.36:390][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3957
+[2020.04.19-17.33.36:390][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3947
+[2020.04.19-17.33.38:368][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3937
+[2020.04.19-17.33.39:027][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3927
+[2020.04.19-17.33.39:696][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3917
+[2020.04.19-17.33.40:327][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3907
+[2020.04.19-17.33.40:952][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3897
+[2020.04.19-17.33.42:229][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3887
+[2020.04.19-17.33.42:854][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3877
+[2020.04.19-17.33.43:471][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3867
+[2020.04.19-17.33.44:705][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3857
+[2020.04.19-17.33.45:915][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3847
+[2020.04.19-17.33.46:495][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3837
+[2020.04.19-17.33.47:116][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3827
+[2020.04.19-17.33.48:271][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3817
+[2020.04.19-17.33.49:459][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3807
+[2020.04.19-17.33.49:459][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3797
+[2020.04.19-17.33.49:985][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3787
+[2020.04.19-17.33.51:177][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3777
+[2020.04.19-17.33.51:875][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3767
+[2020.04.19-17.33.51:875][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3757
+[2020.04.19-17.33.53:084][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3747
+[2020.04.19-17.33.53:672][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3737
+[2020.04.19-17.33.54:874][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3727
+[2020.04.19-17.33.54:874][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3717
+[2020.04.19-17.33.55:470][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3707
+[2020.04.19-17.33.57:333][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3697
+[2020.04.19-17.33.57:333][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3687
+[2020.04.19-17.33.57:932][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3677
+[2020.04.19-17.33.58:586][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3667
+[2020.04.19-17.33.59:792][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3657
+[2020.04.19-17.34.00:408][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3647
+[2020.04.19-17.34.00:408][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3637
+[2020.04.19-17.34.01:007][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3627
+[2020.04.19-17.34.02:196][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3617
+[2020.04.19-17.34.03:348][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3607
+[2020.04.19-17.34.03:348][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3597
+[2020.04.19-17.34.03:892][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3587
+[2020.04.19-17.34.05:171][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3577
+[2020.04.19-17.34.05:834][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3567
+[2020.04.19-17.34.05:834][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3557
+[2020.04.19-17.34.07:110][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3547
+[2020.04.19-17.34.07:786][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3537
+[2020.04.19-17.34.08:416][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3527
+[2020.04.19-17.34.09:647][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3517
+[2020.04.19-17.34.09:647][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3507
+[2020.04.19-17.34.10:847][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3497
+[2020.04.19-17.34.11:479][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3487
+[2020.04.19-17.34.12:089][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3477
+[2020.04.19-17.34.13:410][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3467
+[2020.04.19-17.34.14:076][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3457
+[2020.04.19-17.34.14:076][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3447
+[2020.04.19-17.34.15:931][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3437
+[2020.04.19-17.34.16:532][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3427
+[2020.04.19-17.34.17:198][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3417
+[2020.04.19-17.34.18:491][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3407
+[2020.04.19-17.34.19:127][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3397
+[2020.04.19-17.34.19:127][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3387
+[2020.04.19-17.34.20:404][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3377
+[2020.04.19-17.34.21:061][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3367
+[2020.04.19-17.34.21:713][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3357
+[2020.04.19-17.34.22:948][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3347
+[2020.04.19-17.34.22:948][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3337
+[2020.04.19-17.34.24:189][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3327
+[2020.04.19-17.34.24:827][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3317
+[2020.04.19-17.34.26:147][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3307
+[2020.04.19-17.34.26:147][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3297
+[2020.04.19-17.34.26:771][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3287
+[2020.04.19-17.34.28:767][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3277
+[2020.04.19-17.34.28:767][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3267
+[2020.04.19-17.34.28:767][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3257
+[2020.04.19-17.34.30:520][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3247
+[2020.04.19-17.34.31:742][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3237
+[2020.04.19-17.34.31:742][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3227
+[2020.04.19-17.34.32:293][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3217
+[2020.04.19-17.34.33:386][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3207
+[2020.04.19-17.34.33:403][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3197
+[2020.04.19-17.34.33:995][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3187
+[2020.04.19-17.34.35:148][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3177
+[2020.04.19-17.34.35:148][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3167
+[2020.04.19-17.34.36:332][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3157
+[2020.04.19-17.34.36:920][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3147
+[2020.04.19-17.34.37:547][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3137
+[2020.04.19-17.34.38:178][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3127
+[2020.04.19-17.34.39:369][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3117
+[2020.04.19-17.34.39:970][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3107
+[2020.04.19-17.34.40:541][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3097
+[2020.04.19-17.34.41:168][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3087
+[2020.04.19-17.34.41:802][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3077
+[2020.04.19-17.34.42:385][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3067
+[2020.04.19-17.34.43:629][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3057
+[2020.04.19-17.34.44:182][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3047
+[2020.04.19-17.34.44:722][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3037
+[2020.04.19-17.34.45:291][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3027
+[2020.04.19-17.34.45:844][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3017
+[2020.04.19-17.34.46:918][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3007
+[2020.04.19-17.34.46:918][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2997
+[2020.04.19-17.34.47:455][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2987
+[2020.04.19-17.34.48:651][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2977
+[2020.04.19-17.34.49:201][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2967
+[2020.04.19-17.34.50:505][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2957
+[2020.04.19-17.34.50:522][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2947
+[2020.04.19-17.34.51:775][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2937
+[2020.04.19-17.34.52:370][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2927
+[2020.04.19-17.34.52:950][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2917
+[2020.04.19-17.34.54:940][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2907
+[2020.04.19-17.34.55:578][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2897
+[2020.04.19-17.34.55:578][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2887
+[2020.04.19-17.34.57:296][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2877
+[2020.04.19-17.34.57:296][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2867
+[2020.04.19-17.34.58:508][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2857
+[2020.04.19-17.34.58:508][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2847
+[2020.04.19-17.34.59:113][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2837
+[2020.04.19-17.35.00:415][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2827
+[2020.04.19-17.35.01:155][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2817
+[2020.04.19-17.35.03:225][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2807
+[2020.04.19-17.35.04:499][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2797
+[2020.04.19-17.35.06:465][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2787
+[2020.04.19-17.35.06:465][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2777
+[2020.04.19-17.35.07:104][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2767
+[2020.04.19-17.35.09:887][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2757
+[2020.04.19-17.35.11:179][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2747
+[2020.04.19-17.35.12:445][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2737
+[2020.04.19-17.35.12:445][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2727
+[2020.04.19-17.35.13:069][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2717
+[2020.04.19-17.35.15:553][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2707
+[2020.04.19-17.35.15:553][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2697
+[2020.04.19-17.35.16:776][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2687
+[2020.04.19-17.35.18:032][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2677
+[2020.04.19-17.35.18:032][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2667
+[2020.04.19-17.35.18:685][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2657
+[2020.04.19-17.35.20:624][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2647
+[2020.04.19-17.35.20:624][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2637
+[2020.04.19-17.35.23:484][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2627
+[2020.04.19-17.35.23:484][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2617
+[2020.04.19-17.35.24:789][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2607
+[2020.04.19-17.35.24:789][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2597
+[2020.04.19-17.35.26:289][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2587
+[2020.04.19-17.35.26:928][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2577
+[2020.04.19-17.35.27:560][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2567
+[2020.04.19-17.35.29:471][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2557
+[2020.04.19-17.35.30:152][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2547
+[2020.04.19-17.35.31:467][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2537
+[2020.04.19-17.35.32:174][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2527
+[2020.04.19-17.35.32:174][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2517
+[2020.04.19-17.35.34:207][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2507
+[2020.04.19-17.35.34:207][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2497
+[2020.04.19-17.35.35:496][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2487
+[2020.04.19-17.35.36:871][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2477
+[2020.04.19-17.35.37:521][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2467
+[2020.04.19-17.35.39:018][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2457
+[2020.04.19-17.35.39:956][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2447
+[2020.04.19-17.35.40:837][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2437
+[2020.04.19-17.35.44:203][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2427
+[2020.04.19-17.35.45:773][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2417
+[2020.04.19-17.35.46:518][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2407
+[2020.04.19-17.35.47:247][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2397
+[2020.04.19-17.35.47:880][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2387
+[2020.04.19-17.35.49:196][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2377
+[2020.04.19-17.35.50:483][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2367
+[2020.04.19-17.35.51:259][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2357
+[2020.04.19-17.35.52:657][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2347
+[2020.04.19-17.35.54:637][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2337
+[2020.04.19-17.35.54:654][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2327
+[2020.04.19-17.35.56:624][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2317
+[2020.04.19-17.35.57:325][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2307
+[2020.04.19-17.35.59:396][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2297
+[2020.04.19-17.36.00:786][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2287
+[2020.04.19-17.36.01:501][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2277
+[2020.04.19-17.36.02:156][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2267
+[2020.04.19-17.36.02:157][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2257
+[2020.04.19-17.36.08:467][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2247
+[2020.04.19-17.36.09:142][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2237
+[2020.04.19-17.36.09:855][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2227
+[2020.04.19-17.36.10:565][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2217
+[2020.04.19-17.36.10:565][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2207
+[2020.04.19-17.36.13:365][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2197
+[2020.04.19-17.36.14:096][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2187
+[2020.04.19-17.36.15:471][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2177
+[2020.04.19-17.36.15:471][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2167
+[2020.04.19-17.36.21:126][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2157
+[2020.04.19-17.36.21:126][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2147
+[2020.04.19-17.36.22:495][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2137
+[2020.04.19-17.36.22:495][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2127
+[2020.04.19-17.36.23:157][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2117
+[2020.04.19-17.36.25:189][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2107
+[2020.04.19-17.36.25:189][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2097
+[2020.04.19-17.36.25:206][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2087
+[2020.04.19-17.36.27:203][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2077
+[2020.04.19-17.36.27:824][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2067
+[2020.04.19-17.36.28:497][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2057
+[2020.04.19-17.36.29:143][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2047
+[2020.04.19-17.36.30:497][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2037
+[2020.04.19-17.36.31:766][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2027
+[2020.04.19-17.36.32:379][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2017
+[2020.04.19-17.36.32:379][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2007
+[2020.04.19-17.36.33:636][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1997
+[2020.04.19-17.36.35:528][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1987
+[2020.04.19-17.36.35:528][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1977
+[2020.04.19-17.36.36:197][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1967
+[2020.04.19-17.36.37:443][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1957
+[2020.04.19-17.36.38:685][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1947
+[2020.04.19-17.36.39:322][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1937
+[2020.04.19-17.36.40:557][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1927
+[2020.04.19-17.36.41:251][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1917
+[2020.04.19-17.36.43:272][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1907
+[2020.04.19-17.36.43:273][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1897
+[2020.04.19-17.36.44:590][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1887
+[2020.04.19-17.36.45:266][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1877
+[2020.04.19-17.36.45:903][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1867
+[2020.04.19-17.36.47:946][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1857
+[2020.04.19-17.36.47:946][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1847
+[2020.04.19-17.36.49:965][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1837
+[2020.04.19-17.36.49:965][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1827
+[2020.04.19-17.36.50:548][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1817
+[2020.04.19-17.36.52:521][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1807
+[2020.04.19-17.36.53:157][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1797
+[2020.04.19-17.36.54:456][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1787
+[2020.04.19-17.36.55:095][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1777
+[2020.04.19-17.36.56:375][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1767
+[2020.04.19-17.36.57:007][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1757
+[2020.04.19-17.36.57:651][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1747
+[2020.04.19-17.36.58:864][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1737
+[2020.04.19-17.36.59:509][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1727
+[2020.04.19-17.37.00:130][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1717
+[2020.04.19-17.37.01:491][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1707
+[2020.04.19-17.37.02:115][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1697
+[2020.04.19-17.37.02:718][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1687
+[2020.04.19-17.37.03:380][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1677
+[2020.04.19-17.37.03:995][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1667
+[2020.04.19-17.37.03:995][721]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.19-17.37.04:196][722]LogEditorSessionSummary: EditorSessionSummary sent report. Type=AbnormalShutdown, SessionId={39D5B412-4CB6-7EF9-0D33-F8A54650D6EF}
+[2020.04.19-17.37.04:196][722]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={EABF4789-4998-7CCD-84A8-B2AA3D66E60C}
+[2020.04.19-17.37.04:992][756]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1657
+[2020.04.19-17.37.05:769][787]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1647
+[2020.04.19-17.37.06:756][818]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1637
+[2020.04.19-17.37.08:082][852]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1627
+[2020.04.19-17.37.08:986][877]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1617
+[2020.04.19-17.37.10:103][906]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1607
+[2020.04.19-17.37.10:169][909]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1597
+[2020.04.19-17.37.11:734][  5]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1587
+[2020.04.19-17.37.11:848][ 15]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1577
+[2020.04.19-17.37.12:681][ 67]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1567
+[2020.04.19-17.37.14:733][244]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1557
+[2020.04.19-17.37.15:117][284]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1547
+[2020.04.19-17.37.16:600][427]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1537
+[2020.04.19-17.37.17:428][502]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1527
+[2020.04.19-17.37.18:374][585]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1517
+[2020.04.19-17.37.18:844][633]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1507
+[2020.04.19-17.37.20:421][780]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1497
+[2020.04.19-17.37.21:749][895]LogUObjectHash: Compacting FUObjectHashTables data took   5.67ms
+[2020.04.19-17.37.22:022][895]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1487
+[2020.04.19-17.37.22:022][895]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.04.19-17.37.22:083][895]LogSlate: Window 'RogueLike - Unreal Editor' being destroyed
+[2020.04.19-17.37.22:089][895]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.19-17.37.22:306][896]Cmd: QUIT_EDITOR
+[2020.04.19-17.37.22:724][896]LogExit: Preparing to exit.
+[2020.04.19-17.37.23:276][896]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.19-17.37.23:286][896]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.04.19-17.37.23:718][896]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1477
+[2020.04.19-17.37.23:718][896]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.04.19-17.37.23:750][896]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.04.19-17.37.23:750][896]LogExit: Editor shut down
+[2020.04.19-17.37.23:751][896]LogExit: Transaction tracking system shut down
+[2020.04.19-17.37.24:269][896]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1467
+[2020.04.19-17.37.24:269][896]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1457
+[2020.04.19-17.37.24:269][896]LogExit: Object subsystem successfully closed.
+[2020.04.19-17.37.24:288][896]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.04.19-17.37.24:349][896]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (674)
+[2020.04.19-17.37.24:349][896]LogModuleManager: Shutting down and abandoning module Voice (672)
+[2020.04.19-17.37.24:359][896]LogModuleManager: Shutting down and abandoning module BlueprintGraph (670)
+[2020.04.19-17.37.24:359][896]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (668)
+[2020.04.19-17.37.24:359][896]LogModuleManager: Shutting down and abandoning module SceneOutliner (666)
+[2020.04.19-17.37.24:359][896]LogModuleManager: Shutting down and abandoning module AddContentDialog (664)
+[2020.04.19-17.37.24:369][896]LogModuleManager: Shutting down and abandoning module WidgetCarousel (663)
+[2020.04.19-17.37.24:369][896]LogModuleManager: Shutting down and abandoning module EditorWidgets (660)
+[2020.04.19-17.37.24:369][896]LogModuleManager: Shutting down and abandoning module CollectionManager (658)
+[2020.04.19-17.37.24:369][896]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2020.04.19-17.37.24:369][896]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2020.04.19-17.37.24:369][896]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2020.04.19-17.37.24:370][896]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2020.04.19-17.37.24:379][896]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2020.04.19-17.37.24:379][896]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2020.04.19-17.37.24:379][896]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2020.04.19-17.37.24:379][896]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2020.04.19-17.37.24:379][896]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2020.04.19-17.37.24:379][896]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2020.04.19-17.37.24:728][896]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2020.04.19-17.37.24:728][896]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2020.04.19-17.37.24:728][896]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2020.04.19-17.37.24:728][896]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2020.04.19-17.37.24:728][896]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2020.04.19-17.37.24:728][896]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2020.04.19-17.37.24:728][896]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2020.04.19-17.37.24:728][896]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2020.04.19-17.37.24:728][896]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2020.04.19-17.37.24:729][896]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2020.04.19-17.37.24:729][896]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2020.04.19-17.37.24:729][896]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2020.04.19-17.37.24:729][896]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2020.04.19-17.37.24:729][896]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2020.04.19-17.37.24:729][896]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2020.04.19-17.37.24:729][896]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2020.04.19-17.37.24:729][896]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2020.04.19-17.37.24:729][896]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2020.04.19-17.37.24:735][896]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2020.04.19-17.37.24:735][896]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2020.04.19-17.37.24:735][896]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2020.04.19-17.37.24:735][896]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2020.04.19-17.37.24:735][896]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2020.04.19-17.37.24:779][896]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2020.04.19-17.37.24:779][896]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2020.04.19-17.37.24:779][896]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2020.04.19-17.37.24:779][896]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2020.04.19-17.37.24:779][896]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2020.04.19-17.37.24:779][896]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2020.04.19-17.37.24:779][896]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2020.04.19-17.37.24:779][896]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2020.04.19-17.37.24:779][896]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2020.04.19-17.37.24:779][896]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2020.04.19-17.37.24:779][896]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2020.04.19-17.37.24:786][896]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2020.04.19-17.37.24:786][896]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2020.04.19-17.37.24:786][896]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2020.04.19-17.37.24:786][896]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2020.04.19-17.37.24:786][896]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2020.04.19-17.37.24:786][896]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2020.04.19-17.37.24:786][896]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2020.04.19-17.37.24:786][896]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2020.04.19-17.37.24:787][896]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2020.04.19-17.37.24:787][896]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2020.04.19-17.37.24:787][896]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2020.04.19-17.37.24:787][896]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2020.04.19-17.37.24:787][896]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2020.04.19-17.37.24:787][896]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2020.04.19-17.37.24:787][896]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2020.04.19-17.37.24:787][896]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2020.04.19-17.37.24:787][896]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2020.04.19-17.37.24:787][896]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2020.04.19-17.37.24:787][896]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2020.04.19-17.37.24:787][896]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2020.04.19-17.37.24:787][896]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2020.04.19-17.37.24:787][896]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2020.04.19-17.37.24:787][896]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2020.04.19-17.37.24:787][896]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2020.04.19-17.37.24:787][896]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2020.04.19-17.37.24:787][896]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2020.04.19-17.37.24:790][896]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2020.04.19-17.37.24:922][896]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2020.04.19-17.37.24:922][896]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2020.04.19-17.37.24:922][896]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2020.04.19-17.37.24:922][896]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2020.04.19-17.37.24:922][896]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2020.04.19-17.37.24:922][896]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2020.04.19-17.37.24:922][896]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2020.04.19-17.37.24:922][896]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2020.04.19-17.37.24:922][896]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2020.04.19-17.37.24:922][896]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2020.04.19-17.37.24:922][896]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2020.04.19-17.37.24:922][896]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2020.04.19-17.37.24:922][896]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2020.04.19-17.37.24:922][896]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2020.04.19-17.37.24:922][896]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2020.04.19-17.37.24:922][896]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2020.04.19-17.37.24:922][896]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2020.04.19-17.37.24:922][896]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2020.04.19-17.37.24:922][896]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2020.04.19-17.37.24:922][896]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2020.04.19-17.37.24:922][896]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2020.04.19-17.37.24:922][896]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2020.04.19-17.37.24:922][896]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2020.04.19-17.37.24:922][896]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2020.04.19-17.37.24:922][896]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2020.04.19-17.37.24:922][896]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2020.04.19-17.37.24:922][896]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2020.04.19-17.37.24:922][896]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2020.04.19-17.37.24:922][896]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2020.04.19-17.37.24:922][896]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2020.04.19-17.37.24:922][896]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2020.04.19-17.37.24:922][896]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2020.04.19-17.37.24:922][896]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2020.04.19-17.37.24:922][896]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2020.04.19-17.37.24:922][896]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2020.04.19-17.37.24:922][896]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2020.04.19-17.37.24:923][896]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2020.04.19-17.37.24:923][896]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2020.04.19-17.37.24:923][896]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2020.04.19-17.37.24:923][896]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2020.04.19-17.37.24:923][896]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2020.04.19-17.37.24:923][896]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2020.04.19-17.37.24:923][896]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2020.04.19-17.37.24:923][896]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2020.04.19-17.37.24:923][896]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2020.04.19-17.37.24:923][896]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2020.04.19-17.37.24:923][896]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2020.04.19-17.37.24:923][896]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2020.04.19-17.37.24:923][896]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2020.04.19-17.37.25:031][896]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2020.04.19-17.37.25:031][896]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2020.04.19-17.37.25:031][896]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2020.04.19-17.37.25:031][896]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2020.04.19-17.37.25:031][896]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2020.04.19-17.37.25:031][896]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2020.04.19-17.37.25:031][896]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2020.04.19-17.37.25:031][896]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2020.04.19-17.37.25:031][896]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2020.04.19-17.37.25:031][896]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2020.04.19-17.37.25:031][896]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2020.04.19-17.37.25:032][896]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2020.04.19-17.37.25:032][896]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2020.04.19-17.37.25:032][896]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2020.04.19-17.37.25:032][896]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2020.04.19-17.37.25:133][896]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2020.04.19-17.37.25:234][896]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2020.04.19-17.37.25:234][896]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2020.04.19-17.37.25:234][896]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2020.04.19-17.37.25:234][896]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2020.04.19-17.37.25:234][896]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2020.04.19-17.37.25:234][896]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.04.19-17.37.25:234][896]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2020.04.19-17.37.25:234][896]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2020.04.19-17.37.25:234][896]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2020.04.19-17.37.25:234][896]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2020.04.19-17.37.25:234][896]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2020.04.19-17.37.25:234][896]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2020.04.19-17.37.25:234][896]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2020.04.19-17.37.25:234][896]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2020.04.19-17.37.25:235][896]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2020.04.19-17.37.25:235][896]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2020.04.19-17.37.25:235][896]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2020.04.19-17.37.25:235][896]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2020.04.19-17.37.25:235][896]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2020.04.19-17.37.25:236][896]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2020.04.19-17.37.25:236][896]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2020.04.19-17.37.25:236][896]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.04.19-17.37.25:236][896]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2020.04.19-17.37.25:236][896]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2020.04.19-17.37.25:245][896]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2020.04.19-17.37.25:245][896]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2020.04.19-17.37.25:245][896]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2020.04.19-17.37.25:245][896]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2020.04.19-17.37.25:245][896]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2020.04.19-17.37.25:245][896]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2020.04.19-17.37.25:245][896]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2020.04.19-17.37.25:245][896]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2020.04.19-17.37.25:245][896]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2020.04.19-17.37.25:245][896]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2020.04.19-17.37.25:245][896]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2020.04.19-17.37.25:245][896]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2020.04.19-17.37.25:245][896]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2020.04.19-17.37.25:245][896]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2020.04.19-17.37.25:245][896]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2020.04.19-17.37.25:245][896]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2020.04.19-17.37.25:245][896]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2020.04.19-17.37.25:246][896]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2020.04.19-17.37.25:246][896]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2020.04.19-17.37.25:246][896]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2020.04.19-17.37.25:246][896]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2020.04.19-17.37.25:246][896]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2020.04.19-17.37.25:246][896]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.04.19-17.37.25:246][896]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2020.04.19-17.37.25:247][896]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.04.19-17.37.25:247][896]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.04.19-17.37.25:247][896]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.04.19-17.37.25:247][896]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.04.19-17.37.25:247][896]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.04.19-17.37.25:247][896]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.04.19-17.37.25:247][896]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2020.04.19-17.37.25:247][896]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2020.04.19-17.37.25:247][896]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2020.04.19-17.37.25:247][896]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2020.04.19-17.37.25:247][896]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2020.04.19-17.37.25:247][896]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2020.04.19-17.37.25:247][896]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2020.04.19-17.37.25:247][896]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2020.04.19-17.37.25:247][896]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2020.04.19-17.37.25:247][896]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2020.04.19-17.37.25:315][896]LogDerivedDataCache: Shutdown
+[2020.04.19-17.37.25:315][896]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2020.04.19-17.37.25:315][896]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2020.04.19-17.37.25:315][896]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2020.04.19-17.37.25:315][896]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2020.04.19-17.37.25:315][896]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2020.04.19-17.37.25:315][896]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2020.04.19-17.37.25:315][896]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2020.04.19-17.37.25:315][896]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2020.04.19-17.37.25:315][896]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2020.04.19-17.37.25:315][896]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2020.04.19-17.37.25:315][896]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2020.04.19-17.37.25:315][896]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2020.04.19-17.37.25:316][896]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2020.04.19-17.37.25:316][896]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2020.04.19-17.37.25:316][896]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2020.04.19-17.37.25:316][896]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2020.04.19-17.37.25:316][896]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2020.04.19-17.37.25:316][896]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.04.19-17.37.25:316][896]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2020.04.19-17.37.25:316][896]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2020.04.19-17.37.25:316][896]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2020.04.19-17.37.25:316][896]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2020.04.19-17.37.25:316][896]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2020.04.19-17.37.25:317][896]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2020.04.19-17.37.25:317][896]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2020.04.19-17.37.25:318][896]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2020.04.19-17.37.25:318][896]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.04.19-17.37.25:323][896]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2020.04.19-17.37.25:323][896]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2020.04.19-17.37.25:323][896]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2020.04.19-17.37.25:323][896]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2020.04.19-17.37.25:323][896]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2020.04.19-17.37.25:323][896]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2020.04.19-17.37.25:323][896]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2020.04.19-17.37.25:323][896]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2020.04.19-17.37.25:323][896]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2020.04.19-17.37.25:323][896]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2020.04.19-17.37.25:323][896]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2020.04.19-17.37.25:324][896]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2020.04.19-17.37.25:324][896]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2020.04.19-17.37.25:324][896]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2020.04.19-17.37.25:324][896]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2020.04.19-17.37.25:324][896]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2020.04.19-17.37.25:324][896]LogHMD: Freeing OpenVRDLLHandle.
+[2020.04.19-17.37.25:324][896]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2020.04.19-17.37.25:324][896]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2020.04.19-17.37.25:324][896]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2020.04.19-17.37.25:324][896]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2020.04.19-17.37.25:324][896]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2020.04.19-17.37.25:325][896]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2020.04.19-17.37.25:325][896]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2020.04.19-17.37.25:339][896]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2020.04.19-17.37.25:339][896]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.04.19-17.37.25:339][896]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD2E0271D-4CF2-C332-7B85-A8A6D58C8324%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=f9c830bd47f868d8e9789fa0d38ff257%7C4829b66a216b4516bf6d43af8932f5db%7C5d3c9fee-7b4e-465d-969d-388887ac1a43&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.04.19-17.37.25:346][896]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2020.04.19-17.37.25:349][896]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2020.04.19-17.37.25:350][896]LogModuleManager: Shutting down and abandoning module Media (51)
+[2020.04.19-17.37.25:351][896]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2020.04.19-17.37.25:351][896]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2020.04.19-17.37.25:351][896]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2020.04.19-17.37.25:351][896]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2020.04.19-17.37.25:351][896]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.04.19-17.37.25:351][896]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.04.19-17.37.25:351][896]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.04.19-17.37.25:351][896]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.04.19-17.37.25:352][896]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.04.19-17.37.25:352][896]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.04.19-17.37.25:352][896]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.04.19-17.37.25:352][896]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.04.19-17.37.25:356][896]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.04.19-17.37.25:356][896]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.04.19-17.37.25:356][896]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.04.19-17.37.25:356][896]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.04.19-17.37.25:356][896]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.04.19-17.37.25:356][896]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.04.19-17.37.25:356][896]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.04.19-17.37.25:356][896]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.04.19-17.37.25:356][896]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.04.19-17.37.25:356][896]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.04.19-17.37.25:356][896]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.04.19-17.37.25:356][896]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.04.19-17.37.25:358][896]LogD3D11RHI: Shutdown
+[2020.04.19-17.37.25:358][896]LogD3D11RHI: CleanupD3DDevice
+[2020.04.19-17.37.25:359][896]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.04.19-17.37.25:359][896]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.04.19-17.37.25:359][896]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.04.19-17.37.25:480][896]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.04.19-17.37.25:487][896]LogExit: Exiting.
+[2020.04.19-17.37.25:543][896]Log file closed, 04/19/20 18:37:25
