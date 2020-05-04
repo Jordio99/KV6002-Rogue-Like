@@ -1,0 +1,14 @@
+How to look at code in Unreal Engine - Opeyemi Dele Group 2
+
+1. Pull the source code from Github via the link given.
+
+2. Download Epic Games Launcher from https://www.epicgames.com/store/en-US/ by clicking on the "Get Epic Games" button in the top right hand corner of the web page.
+
+3. Once downloaded and installed, launch the epic games launcher and create an Epic games account and click on the Unreal engine tab on the right hand side.
+
+4.  From here click on the Library tab at the top.
+
+5. Under "Unreal Versions" add a new unreal version and select version "4.23.1"
+
+6. Navigate to "KV6002-Rogue-Like\RogueLike" from the github folder and launch "RogueLike.uproject"
+
